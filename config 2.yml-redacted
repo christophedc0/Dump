@@ -1,0 +1,91 @@
+global:
+  run_now: true
+  schedule_hour: 4
+  log_level: info
+  radarr:
+    - name: radarr
+      api:
+      url:
+  sonarr:
+    - name: sonarr
+      api:
+      url:
+  plex:
+    - name: plex
+      api:
+      url:
+
+discord:
+  notifiarr_webhook:
+  renamer:
+    discord_webhook:
+    channel_id:
+  unmatched-assets:
+    discord_webhook:
+    channel_id:
+
+sync_gdrive:
+  run: true
+  client_id:
+  client_secret:
+  token:
+  gdrive_sa_location: /config/rclone/rclone_sa.json
+  gdrive_sync:
+    - id: 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z
+      location: /data/mm2k
+    - id: 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7
+      location: /data/quafley
+    - id: 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8
+      location: /data/bz
+    - id: 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz
+      location: /data/mvanbaak
+    - id: 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm
+      location: /data/solen
+
+renamer:
+  run: true
+  dry_run: false
+  asset_folders: true
+  action_type: copy
+  print_only_renames: false
+  library_names:
+    - Movies
+    - TV Shows
+    - Anime
+  source_dir: /data/placeholder
+  source_overrides:
+    - /data/mm2k
+    - /data/solen
+    - /data/mvanbaak
+    - /data/bz
+  destination_dir: /data/output
+  collection_threshold: 99
+  radarr:
+    - name: radarr
+  sonarr:
+    - name: sonarr
+
+fix_border:
+  run: true
+  input_folder: /data/output
+  output_folder: /pmm/assets
+  border_color: none
+  overwrite_existing: true
+  resize: false
+  bottom_only: false
+
+
+# This is a script that will take your existing collections, Movies, and Series, and match them to your Plex Library and/or your Media Dir
+unmatched_assets:
+  run: false
+  asset_folders: true
+  library_names:
+    - Movies
+    - TV shows
+    - Anime Movies
+  ignore_collections:
+  assets_paths:
+    - /path/to/poster-assets/
+  media_paths:
+    - /path/to/media/folders/movies
+    - /path/to/media/folders/tv-shows
