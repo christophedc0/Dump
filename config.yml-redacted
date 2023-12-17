@@ -1,0 +1,241 @@
+libraries:
+  "Movies daily operations":
+    library_name: "Movies"
+    schedule: daily
+    operations:
+      assets_for_all: true
+      mass_audience_rating_update: imdb
+      mass_critic_rating_update: imdb
+      mass_user_rating_update: imdb
+
+  "Movies metadata":
+    library_name: "Movies"
+    schedule: daily
+    metadata_path:
+      - pmm: based
+      - pmm: basic
+      - pmm: decade
+      - pmm: franchise
+        template_variables:
+          collection_mode: show_items
+          collection_order: release
+          minimum_items: 2
+      - pmm: imdb
+      - pmm: seasonal
+      - pmm: studio
+      - pmm: subtitle_language
+        template_variables:
+          include:
+            - nl
+            - en
+          sort_by: title.asc
+          use_other: false
+          use_separator: false
+          sep_style: purple
+      - pmm: universe
+
+  "Movies overlay":
+    library_name: "Movies"
+    schedule: daily
+    overlay_path:
+      - remove_overlays: false
+      - reapply_overlay: false
+      - pmm: resolution
+        template_variables:
+          use_edition: false
+          back_height: 85
+          back_radius: 30
+          back_width: 1100
+          horizontal_align: center
+          horizontal_offset: 0
+          vertical_align: top
+          vertical_offset: 0
+
+  "TV Shows daily operations":
+    library_name: "TV Shows"
+    schedule: daily
+    operations:
+      assets_for_all: true
+      mass_audience_rating_update: imdb
+      mass_critic_rating_update: imdb
+      mass_episode_critic_rating_update: imdb
+      mass_episode_audience_rating_update: imdb
+      mass_episode_user_rating_update: imdb
+      mass_user_rating_update: imdb
+
+  "TV Shows metadata":
+    library_name: "TV Shows"
+    schedule: daily
+    metadata_path:
+      - pmm: based
+      - pmm: basic
+      - pmm: decade
+      - pmm: franchise
+        template_variables:
+          collection_mode: show_items
+          collection_order: release
+          minimum_items: 2
+      - pmm: imdb
+      - pmm: studio
+      - pmm: subtitle_language
+        template_variables:
+          include:
+            - nl
+            - en
+          sort_by: title.asc
+          use_other: false
+          use_separator: false
+          sep_style: purple
+      - pmm: universe
+
+  "TV Shows overlay":
+    library_name: "TV Shows"
+    schedule: daily
+    overlay_path:
+      - remove_overlays: false
+      - reapply_overlay: false
+      - pmm: audio_codec
+        template_variables:
+          builder_level: episode
+          back_height: 85
+          horizontal_align: left
+          horizontal_offset: 400
+          vertical_align: bottom
+      - pmm: status
+        template_variables:
+          back_color_airing: '#4a95f0AA'
+          back_color_canceled: '#ed1f1fAA'
+          back_color_ended: '#27c24bAA'
+          back_color_returning: '#81007FAA'
+          back_height: 85
+          back_width: 1100
+          back_radius: 30
+          horizontal_align: center
+          horizontal_offset: 0
+          vertical_align: top
+          vertical_offset: 0
+          font_size: 60
+      - pmm: resolution
+        template_variables:
+          builder_level: episode
+          back_height: 85
+          horizontal_align: left
+          horizontal_offset: 75
+          vertical_align: bottom
+
+  "Kid Movies daily operations":
+    library_name: "Kid Movies"
+    schedule: daily
+    operations:
+      assets_for_all: true
+      mass_audience_rating_update: imdb
+      mass_critic_rating_update: imdb
+      mass_user_rating_update: imdb
+
+  "Kid Movies metadata":
+    library_name: "Kid Movies"
+    schedule: daily
+    metadata_path:
+      - pmm: basic
+      - pmm: imdb
+
+  "Anime daily operations":
+    library_name: "Anime"
+    schedule: daily
+    operations:
+      assets_for_all: true
+      mass_audience_rating_update: imdb
+      mass_critic_rating_update: imdb
+      mass_user_rating_update: imdb
+
+  "Anime metadata":
+    library_name: "Anime"
+    schedule: daily
+    metadata_path:
+      - pmm: basic
+      - pmm: anilist
+
+playlist_files:
+  - pmm: playlist
+
+settings:
+  cache: true
+  cache_expiration: 60
+  show_missing_assets: true
+  asset_directory: /assets
+  asset_folders: true
+  asset_depth: 0
+  create_asset_folders: false
+  prioritize_assets: true
+  dimensional_asset_rename: false
+  download_url_assets: true
+  show_missing_season_assets: false
+  show_missing_episode_assets: false
+  show_asset_not_needed: true
+  sync_mode: append
+  minimum_items: 1
+  default_collection_order:
+  delete_below_minimum: true
+  delete_not_scheduled: false
+  run_again_delay: 2
+  missing_only_released: false
+  only_filter_missing: false
+  show_unmanaged: true
+  show_unconfigured: true
+  show_filtered: false
+  show_options: false
+  show_missing: false
+  save_report: false
+  tvdb_language: eng
+  ignore_ids:
+  ignore_imdb_ids:
+  item_refresh_delay: 0
+  playlist_sync_to_user: all
+  playlist_exclude_users:
+  playlist_report: false
+  verify_ssl: true
+  custom_repo:
+  check_nightly: false
+  run_order:
+  - operations
+  - metadata
+  - collections
+  - overlays
+
+webhooks:
+  error: notifiarr
+  version: notifiarr
+  run_start: notifiarr
+  run_end: notifiarr
+  changes: notifiarr
+  delete: notifiarr
+
+plex:
+  url:
+  token:
+  timeout: 60
+  db_cache: 10240
+  clean_bundles: false
+  empty_trash: false
+  optimize: false
+
+tmdb:
+  apikey:
+  language: en
+  cache_expiration: 60
+  region:
+
+notifiarr:
+  apikey:
+
+trakt:
+  client_id:
+  client_secret:
+  authorization:
+    access_token:
+    token_type:
+    expires_in:
+    refresh_token:
+    scope:
+    created_at:
+  pin:
