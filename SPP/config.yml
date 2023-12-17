@@ -56,7 +56,7 @@ renamer:
   source_overrides:
     - /data/mm2k
     - /data/solen
-    - /data/mvanbaak
+    - /data/unknown1
     - /data/bz
   destination_dir: /data/output
   collection_threshold: 99
