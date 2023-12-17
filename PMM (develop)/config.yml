@@ -23,6 +23,8 @@ libraries:
       - pmm: imdb
       - pmm: seasonal
       - pmm: studio
+        template_variables:
+          minimum_items: 4
       - pmm: subtitle_language
         template_variables:
           include:
@@ -77,6 +79,8 @@ libraries:
           minimum_items: 2
       - pmm: imdb
       - pmm: studio
+        template_variables:
+          minimum_items: 4
       - pmm: subtitle_language
         template_variables:
           include:
