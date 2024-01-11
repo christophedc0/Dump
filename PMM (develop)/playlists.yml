@@ -1,0 +1,9 @@
+playlists:
+  Marvel (Chronological):
+    sync_mode: sync
+    libraries:
+      - "Movies operations"
+      - "TV Shows operations"
+    sync_to_users: all
+    trakt_list: https://trakt.tv/lists/6639083
+    summary: Chronological order of Marvel
