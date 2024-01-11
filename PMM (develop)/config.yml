@@ -1,5 +1,5 @@
 libraries:
-  "Movies daily operations":
+  "Movies operations":
     library_name: "Movies"
     schedule: daily
     operations:
@@ -11,7 +11,7 @@ libraries:
   "Movies metadata":
     library_name: "Movies"
     schedule: daily
-    metadata_path:
+    collection_files:
       - pmm: based
       - pmm: basic
       - pmm: decade
@@ -22,6 +22,14 @@ libraries:
           minimum_items: 2
       - pmm: imdb
       - pmm: seasonal
+        template_variables:
+          trakt_list_christmas:
+            - https://trakt.tv/users/movistapp/lists/christmas-movies
+            - https://trakt.tv/users/questdvd/lists/absolute-hayes-christmas-classics
+            - https://trakt.tv/users/littlestella3/lists/christmas
+            - https://trakt.tv/users/mzdiobolik/lists/hallmark-christmas-movies
+          mdblist_list_christmas:
+            - https://mdblist.com/lists/abs3nt/christmas-movies
       - pmm: studio
         template_variables:
           minimum_items: 4
@@ -39,7 +47,7 @@ libraries:
   "Movies overlay":
     library_name: "Movies"
     schedule: daily
-    overlay_path:
+    overlay_files:
       - remove_overlays: false
       - reapply_overlay: false
       - pmm: resolution
@@ -53,7 +61,7 @@ libraries:
           vertical_align: top
           vertical_offset: 0
 
-  "TV Shows daily operations":
+  "TV Shows operations":
     library_name: "TV Shows"
     schedule: daily
     operations:
@@ -68,7 +76,8 @@ libraries:
   "TV Shows metadata":
     library_name: "TV Shows"
     schedule: daily
-    metadata_path:
+    collection_files:
+      - file: config/collections/tv_unwatched.yml
       - pmm: based
       - pmm: basic
       - pmm: decade
@@ -95,16 +104,16 @@ libraries:
   "TV Shows overlay":
     library_name: "TV Shows"
     schedule: daily
-    overlay_path:
+    overlay_files:
       - remove_overlays: false
       - reapply_overlay: false
       - pmm: audio_codec
         template_variables:
           builder_level: episode
           back_height: 85
-          horizontal_align: left
-          horizontal_offset: 400
-          vertical_align: bottom
+          horizontal_align: right
+          horizontal_offset: 175
+          vertical_align: top
       - pmm: status
         template_variables:
           back_color_airing: '#4a95f0AA'
@@ -123,11 +132,11 @@ libraries:
         template_variables:
           builder_level: episode
           back_height: 85
-          horizontal_align: left
-          horizontal_offset: 75
-          vertical_align: bottom
+          horizontal_align: right
+          horizontal_offset: 500
+          vertical_align: top
 
-  "Kid Movies daily operations":
+  "Kid Movies operations":
     library_name: "Kid Movies"
     schedule: daily
     operations:
@@ -139,12 +148,97 @@ libraries:
   "Kid Movies metadata":
     library_name: "Kid Movies"
     schedule: daily
-    metadata_path:
+    collection_files:
       - pmm: basic
       - pmm: imdb
 
-  "Anime daily operations":
-    library_name: "Anime"
+  "Kid Movies overlay":
+    library_name: "Kid Movies"
+    schedule: daily
+    overlay_files:
+      - remove_overlays: false
+      - reapply_overlay: false
+      - pmm: resolution
+        template_variables:
+          use_edition: false
+          back_height: 85
+          back_radius: 30
+          back_width: 1100
+          horizontal_align: center
+          horizontal_offset: 0
+          vertical_align: top
+          vertical_offset: 0
+
+  "Anime Shows operations":
+    library_name: "Anime Shows"
+    schedule: daily
+    operations:
+      assets_for_all: true
+      mass_audience_rating_update: imdb
+      mass_critic_rating_update: imdb
+      mass_episode_critic_rating_update: imdb
+      mass_episode_audience_rating_update: imdb
+      mass_episode_user_rating_update: imdb
+      mass_user_rating_update: imdb
+
+  "Anime Shows metadata":
+    library_name: "Anime Shows"
+    schedule: daily
+    collection_files:
+      - pmm: anilist
+      - pmm: basic
+      - pmm: decade
+      - pmm: imdb
+      - pmm: studio
+        template_variables:
+          minimum_items: 4
+      - pmm: subtitle_language
+        template_variables:
+          include:
+            - nl
+            - en
+          sort_by: title.asc
+          use_other: false
+          use_separator: false
+          sep_style: purple
+
+  "Anime Shows overlay":
+    library_name: "Anime Shows"
+    schedule: daily
+    overlay_files:
+      - remove_overlays: false
+      - reapply_overlay: false
+      - pmm: audio_codec
+        template_variables:
+          builder_level: episode
+          back_height: 85
+          horizontal_align: right
+          horizontal_offset: 175
+          vertical_align: top
+      - pmm: status
+        template_variables:
+          back_color_airing: '#4a95f0AA'
+          back_color_canceled: '#ed1f1fAA'
+          back_color_ended: '#27c24bAA'
+          back_color_returning: '#81007FAA'
+          back_height: 85
+          back_width: 1100
+          back_radius: 30
+          horizontal_align: center
+          horizontal_offset: 0
+          vertical_align: top
+          vertical_offset: 0
+          font_size: 60
+      - pmm: resolution
+        template_variables:
+          builder_level: episode
+          back_height: 85
+          horizontal_align: right
+          horizontal_offset: 500
+          vertical_align: top
+
+  "Anime Movies operations":
+    library_name: "Anime Movies"
     schedule: daily
     operations:
       assets_for_all: true
@@ -152,15 +246,55 @@ libraries:
       mass_critic_rating_update: imdb
       mass_user_rating_update: imdb
 
-  "Anime metadata":
-    library_name: "Anime"
+  "Anime Movies metadata":
+    library_name: "Anime Movies"
     schedule: daily
-    metadata_path:
-      - pmm: basic
+    collection_files:
       - pmm: anilist
+      - pmm: basic
+      - pmm: decade
+      - pmm: imdb
+      - pmm: studio
+        template_variables:
+          minimum_items: 4
+      - pmm: subtitle_language
+        template_variables:
+          include:
+            - nl
+            - en
+          sort_by: title.asc
+          use_other: false
+          use_separator: false
+          sep_style: purple
+
+  "Anime Movies overlay":
+    library_name: "Anime Movies"
+    schedule: daily
+    overlay_files:
+      - remove_overlays: false
+      - reapply_overlay: false
+      - pmm: resolution
+        template_variables:
+          use_edition: false
+          back_height: 85
+          back_radius: 30
+          back_width: 1100
+          horizontal_align: center
+          horizontal_offset: 0
+          vertical_align: top
+          vertical_offset: 0
+
 
 playlist_files:
   - pmm: playlist
+    template_variables:
+      playlist_sync_to_user: all
+      libraries:
+        - "Movies operations"
+        - "TV Shows operations"
+        - "Anime Shows operations"
+        - "Anime Movies operations"
+  - file: config/playlists.yml
 
 settings:
   cache: true
