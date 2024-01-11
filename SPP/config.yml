@@ -34,7 +34,7 @@ sync_gdrive:
     - id: 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp
       location: /data/chrisdc
     - id: 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z
-      location: /data/mm2k
+      location: /data/Drazz
     - id: 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7
       location: /data/quafley
     - id: 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8
@@ -57,7 +57,7 @@ renamer:
   source_dir: /data/placeholder
   source_overrides:
     - /data/chrisdc
-    - /data/mm2k
+    - /data/Drazz
     - /data/solen
     - /data/unknown1
     - /data/bz
