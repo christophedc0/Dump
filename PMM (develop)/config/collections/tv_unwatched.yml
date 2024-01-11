@@ -4,4 +4,4 @@ collections:
     smart_filter:
       all:
         episode_unplayed: true
-      sort_by: episode_release.as
+      sort_by: episode_release.asc
