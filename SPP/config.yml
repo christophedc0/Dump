@@ -31,6 +31,8 @@ sync_gdrive:
   token:
   gdrive_sa_location: /config/rclone/rclone_sa.json
   gdrive_sync:
+    - id: 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp
+      location: /data/chrisdc
     - id: 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z
       location: /data/mm2k
     - id: 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7
@@ -54,6 +56,7 @@ renamer:
     - Anime
   source_dir: /data/placeholder
   source_overrides:
+    - /data/chrisdc
     - /data/mm2k
     - /data/solen
     - /data/unknown1
