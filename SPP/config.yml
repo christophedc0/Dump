@@ -40,7 +40,7 @@ sync_gdrive:
     - id: 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8
       location: /data/bz
     - id: 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz
-      location: /data/unknown1
+      location: /data/dsaq
     - id: 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm
       location: /data/solen
 
@@ -59,7 +59,7 @@ renamer:
     - /data/chrisdc
     - /data/Drazz
     - /data/solen
-    - /data/unknown1
+    - /data/dsaq
     - /data/bz
   destination_dir: /data/output
   collection_threshold: 99
