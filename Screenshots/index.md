@@ -1,1 +1,1 @@
-![](/Plex/IMG_0255.jpeg)
+![](Plex/IMG_0255.jpeg)
