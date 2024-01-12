@@ -16,4 +16,4 @@ Contains screenshots of the results.
 
 # Outro
 
-Thanks to everyone on the PMM and Trash-Guides discord for helping me.
+Thanks to everyone on the PMM, Trash-Guides & TCM discord for helping me.
