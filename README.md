@@ -10,6 +10,10 @@ This place is a dump for files that can be served to guide/aid configurations.
 
 [SyncPosterProgress](https://github.com/MrZablah/SyncPosterProcess)
 
+## Screenshots
+
+Contains screenshots of the results.
+
 # Outro
 
 Thanks to everyone on the PMM and Trash-Guides discord for helping me.
