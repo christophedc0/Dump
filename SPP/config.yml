@@ -43,7 +43,9 @@ sync_gdrive:
       location: /data/dsaq
     - id: 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm
       location: /data/solen
-
+    - id: 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug
+      location: /data/stupifierr
+      
 renamer:
   run: true
   dry_run: false
@@ -61,6 +63,7 @@ renamer:
     - /data/solen
     - /data/dsaq
     - /data/bz
+    - /data/stupifierr
   destination_dir: /data/output
   collection_threshold: 99
   radarr:
