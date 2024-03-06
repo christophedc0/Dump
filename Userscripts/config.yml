@@ -242,14 +242,15 @@ poster_renamerr:
     - Anime Movies
     - Anime Shows
   source_dirs:
-    - /data/chrisdc
-    - /data/drazz
-    - /data/solen
-    - /data/bz
-    - /data/dsaq
     - /data/stupifierr
     - /data/sahara
     - /data/lioncitygaming
+    - /data/dsaq
+    - /data/bz
+    - /data/solen
+    - /data/quafley
+    - /data/drazz
+    - /data/chrisdc
   destination_dir: /pmm/assets
   instances:
     - plex
