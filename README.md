@@ -6,9 +6,17 @@ This place is a dump for files that can be served to guide/aid configurations.
 
 [Plex-Meta-Manager](https://metamanager.wiki/en/develop/)
 
-## SPP
+## ~~SPP~~ 
 
-[SyncPosterProgress](https://github.com/MrZablah/SyncPosterProcess)
+I use Userscripts now.
+
+[~~SyncPosterProgress~~](https://github.com/MrZablah/SyncPosterProcess)
+
+## Userscripts
+
+This has replaced SPP for me.
+
+[Userscripts](https://github.com/Drazzilb08/userScripts)
 
 ## Screenshots
 
