@@ -138,10 +138,12 @@ sync_gdrive:
       location: /data/solen
     - id: 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug
       location: /data/stupifierr      
-    - id: 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM # Sahara
+    - id: 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM
       location: /data/sahara
-    - id: 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr # Lion City Gaming
+    - id: 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr
       location: /data/lioncitygaming
+    - id: 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu
+      location: /data/majorgiant
 
 discord:
   # Notifiarr uses passthrough integration
@@ -243,6 +245,7 @@ poster_renamerr:
     - Anime Shows
   source_dirs:
     - /data/stupifierr
+    - /data/majorgiant
     - /data/sahara
     - /data/lioncitygaming
     - /data/dsaq
