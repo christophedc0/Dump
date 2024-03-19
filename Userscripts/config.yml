@@ -136,6 +136,8 @@ sync_gdrive:
       location: /data/dsaq
     - id: 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm
       location: /data/solen
+    - id: 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm
+      location: /data/solens-collection
     - id: 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug
       location: /data/stupifierr      
     - id: 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM
@@ -251,6 +253,7 @@ poster_renamerr:
     - /data/dsaq
     - /data/bz
     - /data/solen
+    - /data/solens-collection
     - /data/quafley
     - /data/drazz
     - /data/chrisdc
