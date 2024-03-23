@@ -12,11 +12,11 @@ I use Userscripts now.
 
 [~~SyncPosterProgress~~](https://github.com/MrZablah/SyncPosterProcess)
 
-## Userscripts
+## DAPS
 
 This has replaced SPP for me.
 
-[Userscripts](https://github.com/Drazzilb08/userScripts)
+[DAPS](https://github.com/Drazzilb08/daps)
 
 ## Screenshots
 
