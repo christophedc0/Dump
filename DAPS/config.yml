@@ -318,7 +318,7 @@ unmatched_assets:
   # Supports both data path as well as base_name of folder path
   # Note: If you use base_name, the name must match exactly just without the "/"
   ignore_root_folders:
-    - /data/videos/kids
+    - /data/videos/kids/
   # Libraries are ONLY used for collections
   library_names:
     - Movies
