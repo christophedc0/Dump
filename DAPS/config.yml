@@ -146,6 +146,8 @@ sync_gdrive:
       location: /data/lioncitygaming
     - id: 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu
       location: /data/majorgiant
+    - id: 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia
+      location: /data/overbook874
 
 discord:
   # Notifiarr uses passthrough integration
@@ -246,6 +248,7 @@ poster_renamerr:
     - Anime Movies
     - Anime Shows
   source_dirs:
+    - /data/overbook874
     - /data/stupifierr
     - /data/majorgiant
     - /data/sahara
