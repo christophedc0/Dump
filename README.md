@@ -4,7 +4,7 @@ This place is a dump for files that can be served to guide/aid configurations.
 
 ## Found an issue?
 
-Please, let me know by creating an issue!
+Please, let me know by creating an issue (Please add a label)!
 
 ## Got an update? 
 
