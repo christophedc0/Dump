@@ -3,3 +3,5 @@ critical:
     - '(critical|urgent)'
 documentation:
     - '(gdrive|drive)'
+enhancement:
+    - '(improve|improvement|enhance|enhancement)'
