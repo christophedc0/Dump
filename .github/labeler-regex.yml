@@ -1,7 +1,10 @@
-# Add/remove 'critical' label if issue contains the words 'urgent' or 'critical'
 critical:
-    - '(critical|urgent)'
+    - '(Critical|critical|Urgent|urgent)'
 documentation:
-    - '(gdrive|drive)'
+    - '(Doc|doc|Documentation|documentation)'
+configuration_files:
+    - '(Config|config|Configuration|configuration)'
+gdrive:
+    - '(Gdrive|Drive|gdrive|drive)'
 enhancement:
-    - '(improve|improvement|enhance|enhancement)'
+    - '(Improve|improve|Improvement|improvement|Enhance|enhance|Enhancement|enhancement)'
