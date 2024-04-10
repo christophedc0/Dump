@@ -4,7 +4,17 @@ This place is a dump for files that can be served to guide/aid configurations.
 
 ## Found an issue?
 
-Please, let me know by creating an issue (Please add a label)!
+Please, let me know by creating an issue!
+
+When you add the following keywords to the title, they will get automatically labeled.
+| Label | keyword(s) |
+| --- | --- |
+| critical | critical,urgent |
+| documentation | doc,documentation |
+| configuration_file | config,configuration |
+| gdrive | gdrive,drive |
+| enhancement | improve,improvement,enhance,enhancement|
+
 
 ## Got an update? 
 
