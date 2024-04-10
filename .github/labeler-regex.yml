@@ -5,6 +5,6 @@ documentation:
 configuration_files:
     - '(Config|config|Configuration|configuration)'
 gdrive:
-    - '(Gdrive|Drive|gdrive|drive|)'
+    - '(Gdrive|Drive|gdrive|drive)'
 enhancement:
     - '(Improve|improve|Improvement|improvement|Enhance|enhance|Enhancement|enhancement)'
