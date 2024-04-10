@@ -1,0 +1,5 @@
+# Add/remove 'critical' label if issue contains the words 'urgent' or 'critical'
+critical:
+    - '(critical|urgent)'
+documentation:
+    - '(gdrive|drive)'
