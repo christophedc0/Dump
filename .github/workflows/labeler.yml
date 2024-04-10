@@ -15,6 +15,6 @@ jobs:
     steps:
     - uses: github/issue-labeler@v3.3 #May not be the latest version
       with:
-        configuration-path: .github/workflows/labeler-regex.yml
+        configuration-path: .github/labeler-regex.yml
         include-title: 1
         include-body: 0
