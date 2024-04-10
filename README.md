@@ -7,7 +7,7 @@ This place is a dump for files that can be served to guide/aid configurations.
 Please, let me know by creating an issue!
 
 When you add the following keywords to the title, they will get automatically labeled.
-| Label | keyword(s) |
+| Label | Keyword(s) |
 | --- | --- |
 | critical | critical,urgent |
 | documentation | doc,documentation |
