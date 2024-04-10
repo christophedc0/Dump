@@ -2,6 +2,14 @@
 
 This place is a dump for files that can be served to guide/aid configurations.
 
+## Found an issue?
+
+Please, let me know by creating an issue!
+
+## Got an update? 
+
+Please, let me know by creating a pull request (dev branch)!
+
 ## PMM
 
 [Plex-Meta-Manager](https://metamanager.wiki/en/develop/)
