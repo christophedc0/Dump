@@ -13,7 +13,7 @@ jobs:
   triage:
     runs-on: ubuntu-latest
     steps:
-    - uses: github/issue-labeler@v3.3 #May not be the latest version
+    - uses: github/issue-labeler@v3.4
       with:
         configuration-path: .github/labeler-regex.yml
         enable-versioned-regex: 0
