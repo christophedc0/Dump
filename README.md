@@ -2,7 +2,7 @@
 
 This place is a dump for files that can be served to guide/aid configurations.
 
-## Found an issue?
+### Found an issue?
 
 Please, let me know by creating an issue!
 
@@ -16,7 +16,7 @@ When you add the following keywords to the title, they will get automatically la
 | enhancement | improve,improvement,enhance,enhancement|
 
 
-## Got an update? 
+### Got an update? 
 
 Please, let me know by creating a pull request (dev branch)!
 
@@ -24,21 +24,25 @@ Please, let me know by creating a pull request (dev branch)!
 
 [Plex-Meta-Manager](https://metamanager.wiki/en/develop/)
 
-## ~~SPP~~ 
-
-I use Userscripts now.
-
-[~~SyncPosterProgress~~](https://github.com/MrZablah/SyncPosterProcess)
-
 ## DAPS
 
 This has replaced SPP for me.
 
 [DAPS](https://github.com/Drazzilb08/daps)
 
+### *bonus section*
+- *Gdrive information*
+- *Poster search script*
+
 ## Screenshots
 
 Contains screenshots of the results.
+
+## ~~SPP~~ 
+
+I use Userscripts now.
+
+[~~SyncPosterProgress~~](https://github.com/MrZablah/SyncPosterProcess)
 
 # Outro
 
