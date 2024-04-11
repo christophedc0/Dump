@@ -1,9 +1,9 @@
 # Credits: BZ
-# Usage: Replace the paths to your preferences!
+# Usage 1: Replace the paths to your preferences!
 # Usage 2: alias poster="/volume1/scripts/poster-search.sh"
 # Usage 3: `poster "title"`
 
-#!/bin/bash
+#!/usr/bin/env bash
 
 if [ -z ${1+x} ]; then
   echo no search string found.
