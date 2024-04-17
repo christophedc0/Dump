@@ -2,7 +2,7 @@
 
 ## Movie library
 
-![](Plex/IMG_0255.jpeg)
+![](Plex/IMG_0438.jpeg)
 
 ## Movie playlists
 
