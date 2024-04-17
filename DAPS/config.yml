@@ -311,6 +311,11 @@ border_replacerr:
 #      schedule: range(2/5-2/15)
 #      color:
 #        - "#D41F3A"
+  # fix light mm2k posters so no black bar shows at the bottom
+  exclusion_list:
+  # - "Fall (2022)"
+  # - "Inglourious Basterds (2009)"
+  # - "True Detective (2014) - Season 1"
 
 unmatched_assets:
   log_level: info
