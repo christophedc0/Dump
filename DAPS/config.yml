@@ -1,6 +1,3 @@
-
-root@AraAra:/volume2/docker# nano daps/config/config.yml-old 
-root@AraAra:/volume2/docker# cat daps/config/config.yml
 # yaml-language-server: $schema=https://raw.githubusercontent.com/Drazzilb08/daps/master/schemas/config-schema.json
 
 schedule:
