@@ -193,7 +193,7 @@ border_replacerr:
   # will not be in the correct position. This is because the overlay is positioned based on the border width.
   # Colors: https://www.w3schools.com/colors/colors_picker.asp
   log_level: info
-  dry_run: true
+  dry_run: false
   source_dirs:  # <--- Not used if using with poster_renamerr only used if running border_replacer by itself
     - /data/output
   destination_dir: /path/to/output/ # <---- Not used if using with poster_renamerr only used if running border_replacer by itself
