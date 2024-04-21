@@ -136,6 +136,8 @@ sync_gdrive:
       location: /data/lioncitygaming
     - id: 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu
       location: /data/majorgiant
+    - id: 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru
+      location: /data/majorgiant
     - id: 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia
       location: /data/overbook874
     - id: 1aRngLdC9yO93gvSrTI2LQ_I9BSoGD-7o
@@ -167,7 +169,11 @@ poster_renamerr:
     - Anime Movies
     - Anime Shows
   source_dirs:
-    - /data/iamspartacus-collection
+  # Commented source dirs are because they can contain not-compliant posters within the style of mm2k.
+  # These are here for reference and still active in gdrive_sync because I want to use poster_search.sh to check if there's a poster and manually verify if it's valid and move to my personal gdrive/source dir
+#    - /data/iamspartacus-collection
+#    - /data/solens-collection
+#    - /data/majorgiant-collection
     - /data/iamspartacus
     - /data/overbook874
     - /data/stupifierr
@@ -177,7 +183,6 @@ poster_renamerr:
     - /data/dsaq
     - /data/bz
     - /data/solen
-    - /data/solens-collection
     - /data/quafley
     - /data/drazz
     - /data/chrisdc
