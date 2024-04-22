@@ -13,26 +13,26 @@ libraries:
     library_name: Movies
     schedule: daily
     collection_files:
-    - pmm: based
+    - default: based
       template_variables:
         minimum_items: 2
-    - pmm: basic
+    - default: basic
       template_variables:
         minimum_items: 2
-    - pmm: decade
+    - default: decade
       template_variables:
         minimum_items: 2
-    - pmm: franchise
-      template_variables:
-        collection_mode: show_items
-        collection_order: release
-        minimum_items: 2
-    - pmm: imdb
+    - default: franchise
       template_variables:
         collection_mode: show_items
         collection_order: release
         minimum_items: 2
-    - pmm: seasonal
+    - default: imdb
+      template_variables:
+        collection_mode: show_items
+        collection_order: release
+        minimum_items: 2
+    - default: seasonal
       template_variables:
         trakt_list_christmas:
         - https://trakt.tv/users/movistapp/lists/christmas-movies
@@ -41,10 +41,10 @@ libraries:
         - https://trakt.tv/users/mzdiobolik/lists/hallmark-christmas-movies
         mdblist_list_christmas:
         - https://mdblist.com/lists/abs3nt/christmas-movies
-    - pmm: studio
+    - default: studio
       template_variables:
         minimum_items: 4
-    - pmm: subtitle_language
+    - default: subtitle_language
       template_variables:
         include:
         - nl
@@ -53,7 +53,7 @@ libraries:
         use_other: false
         use_separator: false
         sep_style: purple
-    - pmm: universe
+    - default: universe
       template_variables:
         minimum_items: 2
 
@@ -63,7 +63,7 @@ libraries:
     overlay_files:
     - remove_overlays: false
     - reapply_overlay: false
-    - pmm: resolution
+    - default: resolution
       template_variables:
         use_edition: false
         back_height: 85
@@ -73,9 +73,9 @@ libraries:
         horizontal_offset: 0
         vertical_align: top
         vertical_offset: 0
-    - pmm: mediastinger
+    - default: mediastinger
       template_variables:
-        url: https://raw.githubusercontent.com/christophedc0/Dump/main/PMM%20(develop)/overlays/images/mediastinger.png
+        url: https://raw.githubusercontent.com/christophedc0/Dump/main/Kometa%20(develop)/overlays/images/mediastinger.png
         vertical_align: top
         horizontal_align: left
         back_align: center
@@ -102,19 +102,19 @@ libraries:
     schedule: daily
     collection_files:
     - file: config/collections/tv_unwatched.yml
-    - pmm: based
-    - pmm: basic
-    - pmm: decade
-    - pmm: franchise
+    - default: based
+    - default: basic
+    - default: decade
+    - default: franchise
       template_variables:
         collection_mode: show_items
         collection_order: release
         minimum_items: 2
-    - pmm: imdb
-    - pmm: studio
+    - default: imdb
+    - default: studio
       template_variables:
         minimum_items: 4
-    - pmm: subtitle_language
+    - default: subtitle_language
       template_variables:
         include:
         - nl
@@ -123,7 +123,7 @@ libraries:
         use_other: false
         use_separator: false
         sep_style: purple
-    - pmm: universe
+    - default: universe
 
   TV Shows overlay:
     library_name: TV Shows
@@ -131,14 +131,14 @@ libraries:
     overlay_files:
     - remove_overlays: false
     - reapply_overlay: false
-    - pmm: audio_codec
+    - default: audio_codec
       template_variables:
         builder_level: episode
         back_height: 85
         horizontal_align: right
         horizontal_offset: 175
         vertical_align: top
-    - pmm: status
+    - default: status
       template_variables:
         back_color_airing: '#4a95f0AA'
         back_color_canceled: '#ed1f1fAA'
@@ -152,7 +152,7 @@ libraries:
         vertical_align: top
         vertical_offset: 0
         font_size: 60
-    - pmm: resolution
+    - default: resolution
       template_variables:
         builder_level: episode
         back_height: 85
@@ -174,8 +174,8 @@ libraries:
     library_name: Kid Movies
     schedule: daily
     collection_files:
-    - pmm: basic
-    - pmm: imdb
+    - default: basic
+    - default: imdb
 
   Kid Movies overlay:
     library_name: Kid Movies
@@ -183,7 +183,7 @@ libraries:
     overlay_files:
     - remove_overlays: false
     - reapply_overlay: false
-    - pmm: resolution
+    - default: resolution
       template_variables:
         use_edition: false
         back_height: 85
@@ -211,14 +211,14 @@ libraries:
     library_name: Anime Shows
     schedule: daily
     collection_files:
-    - pmm: anilist
-    - pmm: basic
-    - pmm: decade
-    - pmm: imdb
-    - pmm: studio
+    - default: anilist
+    - default: basic
+    - default: decade
+    - default: imdb
+    - default: studio
       template_variables:
         minimum_items: 4
-    - pmm: subtitle_language
+    - default: subtitle_language
       template_variables:
         include:
         - nl
@@ -234,14 +234,14 @@ libraries:
     overlay_files:
     - remove_overlays: false
     - reapply_overlay: false
-    - pmm: audio_codec
+    - default: audio_codec
       template_variables:
         builder_level: episode
         back_height: 85
         horizontal_align: right
         horizontal_offset: 175
         vertical_align: top
-    - pmm: status
+    - default: status
       template_variables:
         back_color_airing: '#4a95f0AA'
         back_color_canceled: '#ed1f1fAA'
@@ -255,7 +255,7 @@ libraries:
         vertical_align: top
         vertical_offset: 0
         font_size: 60
-    - pmm: resolution
+    - default: resolution
       template_variables:
         builder_level: episode
         back_height: 85
@@ -277,14 +277,14 @@ libraries:
     library_name: Anime Movies
     schedule: daily
     collection_files:
-    - pmm: anilist
-    - pmm: basic
-    - pmm: decade
-    - pmm: imdb
-    - pmm: studio
+    - default: anilist
+    - default: basic
+    - default: decade
+    - default: imdb
+    - default: studio
       template_variables:
         minimum_items: 4
-    - pmm: subtitle_language
+    - default: subtitle_language
       template_variables:
         include:
         - nl
@@ -300,7 +300,7 @@ libraries:
     overlay_files:
     - remove_overlays: false
     - reapply_overlay: false
-    - pmm: resolution
+    - default: resolution
       template_variables:
         use_edition: false
         back_height: 85
@@ -313,7 +313,7 @@ libraries:
 
 
 playlist_files:
-- pmm: playlist
+- default: playlist
   template_variables:
     playlist_sync_to_user: all
     libraries:
