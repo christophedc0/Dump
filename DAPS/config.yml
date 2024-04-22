@@ -186,7 +186,7 @@ poster_renamerr:
     - /data/quafley
     - /data/drazz
     - /data/chrisdc
-  destination_dir: /pmm/assets
+  destination_dir: /kometa/assets
   instances:
     - plex
     - radarr
@@ -284,7 +284,7 @@ unmatched_assets:
     - "The Batman Universe"
     - "DC Extended Universe"
   source_dirs: 
-    - /pmm/assets
+    - /kometa/assets
 
 poster_cleanarr:
   # This script will remove any assets from your plex-meta-manager asset directory that are not being used by your media.
@@ -305,7 +305,7 @@ poster_cleanarr:
     - "Random Collection in assets you want to keep"
   # If using poster_renamer with border_replacer, include the tmp folder that border_replacer uses
   source_dirs: 
-    - /pmm/assets
+    - /kometa/assets
 
 upgradinatorr:
   # A script to upgrade Sonarr/Radarr libraries to the keep in line with trash-guides
