@@ -20,9 +20,9 @@ When you add the following keywords to the title, they will get automatically la
 
 Please, let me know by creating a pull request (dev branch)!
 
-## PMM
+## Kometa ~~PMM~~
 
-[Plex-Meta-Manager](https://metamanager.wiki/en/develop/)
+[Kometa](https://kometa.wiki/en/develop/)
 
 ## DAPS
 
