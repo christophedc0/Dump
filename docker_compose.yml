@@ -1,0 +1,48 @@
+version: '3'
+networks:
+  home:
+    driver: macvlan
+    enable_ipv6: false
+    driver_opts:
+      parent: eth0
+    ipam:
+      driver: default
+      config:
+        - subnet: aa.bb.cc.dd/24
+          ip_range: aa.bb.cc.dd/24
+          gateway: aa.bb.cc.dd
+
+services:
+  daps:
+    image: drazzilb08/daps:dev
+    container_name: daps
+    restart: unless-stopped
+    environment:
+      - TZ=Europe/Brussels
+      - PUID=911
+      - PGID=65536
+      - UMASK=000
+    volumes:
+      - /volume2/docker/daps/config:/config
+      - /volume1/data/videos/metadata/kometa/assets:/kometa/assets
+      - /volume1/data/videos/metadata/spp/data:/data
+      - /volume2/docker/daps/backup:/backup
+    networks:
+      home:
+        ipv4_address: aa.bb.cc.dd
+  kometa:
+    image: kometateam/kometa:develop
+    container_name: kometa
+    environment:
+      - TZ=Europe/Brussels
+      - PUID=911
+      - PGID=65536
+      - KOMETA_CONFIG=/config/config.yml
+      - KOMETA_TIME=09:00
+      - KOMETA_NO_MISSING=True
+    volumes:
+      - /volume2/docker/kometa/config:/config:rw
+      - /volume1/data/videos/metadata/kometa/assets:/assets:rw
+    networks:
+      home:
+        ipv4_address: aa.bb.cc.dd
