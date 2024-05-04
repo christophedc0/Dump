@@ -61,10 +61,10 @@ libraries:
 
   Movies overlay:
     library_name: Movies
-    schedule: daily #weekly(sunday)
+    schedule: weekly(sunday)
+    remove_overlays: false
+    Reapply_overlays: false
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlay: false
     - default: resolution
       template_variables:
         use_edition: false
@@ -130,9 +130,9 @@ libraries:
   TV Shows overlay:
     library_name: TV Shows
     schedule: weekly(sunday)
+    remove_overlays: false
+    Reapply_overlays: false
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlay: false
     - default: audio_codec
       template_variables:
         builder_level: episode
@@ -182,9 +182,9 @@ libraries:
   Kid Movies overlay:
     library_name: Kid Movies
     schedule: weekly(sunday)
+    remove_overlays: false
+    Reapply_overlays: false
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlay: false
     - default: resolution
       template_variables:
         use_edition: false
@@ -233,9 +233,9 @@ libraries:
   Anime Shows overlay:
     library_name: Anime Shows
     schedule: weekly(sunday)
+    remove_overlays: false
+    Reapply_overlays: false
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlay: false
     - default: audio_codec
       template_variables:
         builder_level: episode
@@ -299,9 +299,9 @@ libraries:
   Anime Movies overlay:
     library_name: Anime Movies
     schedule: daily
+    remove_overlays: false
+    Reapply_overlays: false
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlay: false
     - default: resolution
       template_variables:
         use_edition: false
@@ -317,7 +317,6 @@ libraries:
 playlist_files:
 - default: playlist
   template_variables:
-    playlist_sync_to_user: all
     libraries:
     - Movies operations
     - TV Shows operations
