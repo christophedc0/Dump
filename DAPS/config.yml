@@ -137,7 +137,7 @@ sync_gdrive:
     - id: 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu
       location: /data/majorgiant
     - id: 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru
-      location: /data/majorgiant
+      location: /data/majorgiant-collection
     - id: 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia
       location: /data/overbook874
     - id: 1aRngLdC9yO93gvSrTI2LQ_I9BSoGD-7o
