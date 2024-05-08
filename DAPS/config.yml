@@ -144,6 +144,8 @@ sync_gdrive:
       location: /data/iamspartacus
     - id: 1-WhCVwRLfV6hxyKF7W5IuzIHIYicCdAv
       location: /data/iamspartacus-collection
+    - id: 1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu
+      location: /data/zarox
 
 poster_renamerr:
   # This script will rename your posters to match Plex-Meta-Manager's naming scheme from TPDB's naming utilizing Radarr/Sonarr as a source.
@@ -171,19 +173,20 @@ poster_renamerr:
   source_dirs:
   # Commented source dirs are because they can contain not-compliant posters within the style of mm2k.
   # These are here for reference and still active in gdrive_sync because I want to use poster_search.sh to check if there's a poster and manually verify if it's valid and move to my personal gdrive/source dir
-#    - /data/iamspartacus-collection
-#    - /data/solens-collection
-#    - /data/majorgiant-collection
-    - /data/iamspartacus
-    - /data/overbook874
+    - /data/solens-collection
+    - /data/iamspartacus-collection
+    - /data/majorgiant-collection
     - /data/stupifierr
-    - /data/majorgiant
+    - /data/overbook874
+    - /data/zarox
     - /data/sahara
-    - /data/lioncitygaming
     - /data/dsaq
+    - /data/iamspartacus
+    - /data/lioncitygaming
+    - /data/majorgiant
     - /data/bz
-    - /data/solen
     - /data/quafley
+    - /data/solen
     - /data/drazz
     - /data/chrisdc
   destination_dir: /kometa/assets
