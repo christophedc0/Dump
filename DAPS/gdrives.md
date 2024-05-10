@@ -33,7 +33,7 @@ Whenever a drive contains > 50% posters that are being collected from others, th
 | + | IamSpartacus (#1) | 1aRngLdC9yO93gvSrTI2LQ_I9BSoGD-7o | Homemade | :white_check_mark: |
 | + | MajorGiant (#1) | 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu | Homemade | :white_check_mark: | 
 | + | BZ | 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8 | Homemade | :white_check_mark: | 
-| + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | Unknown | ❔ |
+| + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | ❔ | ❔ | 
 | + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade | ❔ |
 | ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K | :white_check_mark: |
 | +++ | PERSONAL CUSTOM FOLDER/DRIVE | YOU | PERSONAL |  | :white_check_mark: |
