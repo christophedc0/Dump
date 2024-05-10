@@ -2,7 +2,7 @@
 
 | PRIORITY (ASC) | PRIORITY INFO | CONTENT |
 |--- | --- | --- |
-| --  | LOWEST | Collections |
+| --  | LOWEST | Collection of others work |
 | -  | LOW | Custom made posters (Example: foreign/local media) |
 | +  | MEDIUM | Custom made posters (Can be exchanged within same + priority) |
 | ++  | HIGH | Drazz drive |
