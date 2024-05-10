@@ -1,21 +1,21 @@
-### !! THIS IS PRIORITY RANKED FROM LOW -> HIGH 
-
-### !! PERSONAL PREFERENCE IN COMBINATION WITH RECOMMENDATIONS OF DRIVE OWNERS
-
 # GENERAL BASELINE OF PRIORITY
 
-| PRIORITY | PRIORITY INFO | CONTENT |
+| PRIORITY (ASC) | PRIORITY INFO | CONTENT |
 |--- | --- | --- |
-| --  | Lowest prio #x+2 | Collections |
-| -  | Low prio #x+1 | Custom made posters (Example: foreign/local media) |
-| +  | Medium prio #x | Custom made posters (Can be exchanged within same + priority) |
-| ++  | High prio | Drazz drive |
-| +++  | Highest prio | Custom folder/drive (Personal) |
+| --  | LOWEST | Collections |
+| -  | LOW | Custom made posters (Example: foreign/local media) |
+| +  | MEDIUM | Custom made posters (Can be exchanged within same + priority) |
+| ++  | HIGH | Drazz drive |
+| +++  | HIGHEST | Custom folder/drive (Personal) |
+
+❗ DAPS has the following priority ranking set: LOW -> HIGH (ASC)
+
+❗❗ In the end it remains a personal preference with the recommendations posted below, this only serves as a baseline and is by no means the golden rule.
 
 
 ## Drives
 
-| PRIORITY | OWNER | DRIVE ID | CONTENT | ACKNOWLEDGED & FEEDBACK |
+| PRIORITY (ASC) | OWNER | DRIVE ID | CONTENT | ACKNOWLEDGED & FEEDBACK |
 |--- | --- | --- | --- | --- |
 | -- | IamSpartacus (#2) | 1-WhCVwRLfV6hxyKF7W5IuzIHIYicCdAv | Collection of others work |❔|
 | -- | Solen (#2)| 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm | Collection of others work |❔|
