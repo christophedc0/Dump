@@ -8,7 +8,7 @@
 | -  | LOW | Homemade posters (Example: foreign/local media) |
 | +  | MEDIUM | Homemade posters (Can easily be exchanged within the same priority) |
 | ++  | HIGH | Drazzilb drive (MM2K posters aka our holy grail) |
-| +++  | HIGHEST | Custom folder/drive (Personal)* <br /><br />* This can be used to override/replace posters from one of the drives (or personal/other collections) but don't want to change priorities for specific reasons |
+| +++  | HIGHEST | Custom folder/drive (Personal)(*) |
 
 Whenever a drive contains > 50% posters that are being collected from others, their priority will be set to lowest.
 
@@ -36,7 +36,7 @@ Whenever a drive contains > 50% posters that are being collected from others, th
 | + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade | ❔ |  |
 | + | Zarox | 1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu | Homemade | :white_check_mark: | <li>[TPDB](https://theposterdb.com/user/zarox)</li> <br /> <li>Can contain white text versions of black text MM2K posters</li> |
 | ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K | :white_check_mark: |  |
-| +++ | PERSONAL CUSTOM FOLDER/DRIVE | YOU | PERSONAL | :white_check_mark: |  |
+| +++ | PERSONAL CUSTOM FOLDER/DRIVE | YOU | PERSONAL | :white_check_mark: | (*)This can be used to override/replace posters from one of the drives (or personal/other collections) but don't want to change priorities for specific reasons</li> |
 
 ### Afterword
 
