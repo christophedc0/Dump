@@ -3,15 +3,14 @@
 | PRIORITY (ASC) | PRIORITY INFO | CONTENT |
 |--- | --- | --- |
 | --  | LOWEST | Collection of others work |
-| -  | LOW | Custom made posters (Example: foreign/local media) |
-| +  | MEDIUM | Custom made posters (Can be exchanged within same + priority) |
-| ++  | HIGH | Drazz drive |
+| -  | LOW | Homemade posters (Example: foreign/local media) |
+| +  | MEDIUM | Homemade posters (Can easily be exchanged within the same priority) |
+| ++  | HIGH | Drazzilb drive (MM2K posters aka our holy grail) |
 | +++  | HIGHEST | Custom folder/drive (Personal) |
 
 ❗ DAPS has the following priority ranking set: LOW -> HIGH (ASC)
 
 ❗❗ In the end it remains a personal preference with the recommendations posted below, this only serves as a baseline and is by no means the golden rule.
-
 
 ## Drives
 
@@ -32,5 +31,5 @@
 | + | BZ | 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8 | Homemade posters | :white_check_mark: | 
 | + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | Unknown | ❔ |
 | + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade posters | ❔ |
-| ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K posters (The holy grail) | :white_check_mark: |
+| ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K posters | :white_check_mark: |
 | +++ | PERSONAL CUSTOM FOLDER/DRIVE | YOU | | Personal posters | :white_check_mark: |
