@@ -23,14 +23,14 @@
 | --|  Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | Collection of others work | Owner ACK & FB: + Homemade + Personal favorites posters | 
 | - | Overbook874 | 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Mostly bollywood/indian posters | Owner NACK & FB: / | 
 | + | Dsaq| 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz | Homemade posters (Mostly dutch media) | Owner NACK & FB: / | 
-| + | Stupifierr | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade posters | Owner ACK & FB: To be placed as low as possible | 
+| + | Stupifier | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade posters | Owner ACK & FB: To be placed as low as possible | 
 | + | Sahara | 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM | Homemade posters | Owner ACK & FB: +1 rank with Stupifier | 
+| + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade posters | Owner ACK & FB: +1 rank with Sahara | 
 | + | Zarox | 1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu | Homemade posters (can contain duplicates with Drazz) -> https://theposterdb.com/user/zarox | 
 | + | IamSpartacus (#1) | 1aRngLdC9yO93gvSrTI2LQ_I9BSoGD-7o | Homemade posters | Owner NACK & FB: / | 
-| + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade posters | Owner ACK & FB: +1 rank with Sahara | 
 | + | MajorGiant (#1) | 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu | Homemade posters | Owner NACK & FB: / | 
 | + | BZ | 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8 | Homemade posters | Owner NACK & FB: / | 
 | + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | Unknown | Owner NACK & FB: / | 
 | + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade posters | Owner NACK & FB: / | 
-| ++ | Drazz's | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K posters (The holy grail) | 
+| ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K posters (The holy grail) | 
 | +++ | PERSONAL CUSTOM FOLDER/DRIVE | 
