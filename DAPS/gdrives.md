@@ -10,7 +10,9 @@
 | ++  | HIGH | Drazzilb drive (MM2K posters aka our holy grail) |
 | +++  | HIGHEST | Custom folder/drive (Personal)(*) |
 
-Whenever a drive contains > 50% posters that are being collected from others, their priority will be set to lowest.
+Whenever a drive contains > 50% posters that are being collected from others, their priority should be set to lowest.
+
+Drives marked with ✅ in the ACK column are verified by the owner and are aware of their ranking and provided the feedback over their drive and it's contents.
 
 ❗ [DAPS](https://github.com/Drazzilb08/daps) has the following priority ranking set: LOW -> HIGH (ASC)
 
