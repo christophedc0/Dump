@@ -12,7 +12,7 @@
 
 Whenever a drive contains > 50% posters that are being collected from others, their priority will be set to lowest.
 
-❗ DAPS has the following priority ranking set: LOW -> HIGH (ASC)
+❗ [DAPS](https://github.com/Drazzilb08/daps) has the following priority ranking set: LOW -> HIGH (ASC)
 
 ❗❗ Remember, it remains a personal preference when using the recommendations posted below, this only serves as a baseline and is by no means the golden rule.
 
@@ -37,3 +37,8 @@ Whenever a drive contains > 50% posters that are being collected from others, th
 | + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade | ❔ |
 | ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K | :white_check_mark: |
 | +++ | PERSONAL CUSTOM FOLDER/DRIVE | YOU | PERSONAL |  | :white_check_mark: |
+
+### Afterword
+
+I would like to give a ***special thanks*** to all the owners and users for providing feedback and help in creating this page.
+As well, not important to forget, ***big thanks*** to all the people creating these posters as described in the guidelines and rules that are defined @ [DAPS REPO](https://github.com/Drazzilb08/daps).
