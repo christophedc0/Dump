@@ -4,11 +4,13 @@
 
 | PRIORITY <br /> (ASC) | PRIORITY INFO | CONTENT |
 |--- | --- | --- |
-| --  | LOWEST | Collection of others work |
+| --  | LOWEST | Collection of others people their posters |
 | -  | LOW | Homemade posters (Example: foreign/local media) |
 | +  | MEDIUM | Homemade posters (Can easily be exchanged within the same priority) |
 | ++  | HIGH | Drazzilb drive (MM2K posters aka our holy grail) |
 | +++  | HIGHEST | Custom folder/drive (Personal) |
+
+Whenever a drive contains > 50% posters that are being collected from others, their priority will be set to lowest.
 
 ❗ DAPS has the following priority ranking set: LOW -> HIGH (ASC)
 
@@ -18,10 +20,10 @@
 
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACKNOWLEDGED <br /> & OWNER FEEDBACK |
 |--- | --- | --- | --- | --- |
-| -- | Solen (#2)| 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm | Collection of others work |❔|
-| -- | IamSpartacus (#2) | 1-WhCVwRLfV6hxyKF7W5IuzIHIYicCdAv | Collection of others work |:white_check_mark:|
-| -- | MajorGiant (#2) | 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru | Collection of others work | :white_check_mark: |
-| -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | Collection of others work | :white_check_mark: <br /> <li>Homemade</li> <br /> <li>Personal favorites</li> <br /> <li>Collection of others</li> | 
+| -- | Solen (#2)| 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm | Collection of others |❔|
+| -- | IamSpartacus (#2) | 1-WhCVwRLfV6hxyKF7W5IuzIHIYicCdAv | Collection of others |:white_check_mark:|
+| -- | MajorGiant (#2) | 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru | Collection of others | :white_check_mark: |
+| -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | Collection of others | :white_check_mark: <br /> <li>Homemade</li> <br /> <li>Personal favorites</li> <br /> <li>Collection of others</li> | 
 | - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade <br /> (Mostly Bollywood/Indian media) | ❔ | 
 | - | Dsaq| 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz | Homemade <br /> (Mostly Dutch media) | ❔ | 
 | + | Stupifier | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade | :white_check_mark: <br /> To be placed as low as possible | 
