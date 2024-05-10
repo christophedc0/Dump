@@ -41,4 +41,4 @@ Whenever a drive contains > 50% posters that are being collected from others, th
 ### Afterword
 
 I would like to give a ***special thanks*** to all the owners and users for providing feedback and help in creating this page.
-As well, not important to forget, ***big thanks*** to all the people creating these posters as described in the guidelines and rules that are defined @ [DAPS](https://github.com/Drazzilb08/daps).
+As well, not important to forget, ***big thanks*** to [MusikMann2000](https://theposterdb.com/user/musikmann2000) and all the people creating these posters as described in the guidelines and rules that are defined @ [DAPS](https://github.com/Drazzilb08/daps).
