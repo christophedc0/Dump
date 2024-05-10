@@ -1,6 +1,6 @@
 # Google drives
 
-## Baseline
+## Community baseline
 
 | PRIORITY (ASC) | PRIORITY INFO | CONTENT |
 |--- | --- | --- |
@@ -12,7 +12,7 @@
 
 ❗ DAPS has the following priority ranking set: LOW -> HIGH (ASC)
 
-❗❗ In the end it remains a personal preference with the recommendations posted below, this only serves as a baseline and is by no means the golden rule.
+❗❗ Remember, it remains a personal preference when using the recommendations posted below, this only serves as a baseline and is by no means the golden rule.
 
 ## Drives
 
