@@ -10,9 +10,7 @@
 | ++  | HIGH | Drazzilb drive (MM2K posters aka our holy grail) |
 | +++  | HIGHEST | Custom folder/drive (Personal)(*) |
 
-Whenever a drive contains > 50% posters that are being collected from others, their priority should be set to lowest.
-
-Drives marked with ✅ in the ACK column are verified by the owner and are aware of their ranking and provided the feedback over their drive and it's contents.
+* Whenever a drive contains > 50% posters that are being collected from others, their priority should be set to lowest.
 
 ❗ [DAPS](https://github.com/Drazzilb08/daps) has the following priority ranking set: LOW -> HIGH (ASC)
 
@@ -39,6 +37,8 @@ Drives marked with ✅ in the ACK column are verified by the owner and are aware
 | + | Zarox | 1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu | Homemade | :white_check_mark: | <li>[TPDB](https://theposterdb.com/user/zarox)</li> <br /> <li>Can contain white text versions of black text MM2K posters</li> |
 | ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K | :white_check_mark: |  |
 | +++ | PERSONAL CUSTOM FOLDER/DRIVE | YOU | PERSONAL | :white_check_mark: | (*)This can be used to override/replace posters from one of the drives (or personal/other collections) but don't want to change priorities for specific reasons</li> |
+
+* Drives marked with ✅ in the ACK column are verified by the owner provided the feedback over their drive, it's contents and aware of their ranking
 
 ### Afterword
 
