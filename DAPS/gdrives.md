@@ -20,8 +20,8 @@
 | -- | IamSpartacus (#2) | 1-WhCVwRLfV6hxyKF7W5IuzIHIYicCdAv | Collection of others work |:white_check_mark:|
 | -- | MajorGiant (#2) | 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru | Collection of others work | :white_check_mark: |
 | -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | Collection of others work | :white_check_mark: Homemade + Personal favorites posters + Collection of others | 
-| - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Mostly bollywood/indian posters | ❔ | 
-| + | Dsaq| 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz | Homemade posters (Mostly dutch media) | ❔ | 
+| - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade posters (Mostly Bollywood/Indian media) | ❔ | 
+| - | Dsaq| 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz | Homemade posters (Mostly Dutch media) | ❔ | 
 | + | Stupifier | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade posters | :white_check_mark: To be placed as low as possible | 
 | + | Sahara | 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM | Homemade posters | :white_check_mark: +1 rank with Stupifier | 
 | + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade posters | :white_check_mark: +1 rank with Sahara | 
