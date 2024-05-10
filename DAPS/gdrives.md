@@ -20,8 +20,8 @@ Whenever a drive contains > 50% posters that are being collected from others, th
 
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
-| -- | Solen (#2)| 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm | Collection of others |❔|  |
-| -- | IamSpartacus (#2) | 1-WhCVwRLfV6hxyKF7W5IuzIHIYicCdAv | Collection of others |:white_check_mark:|  |
+| -- | Solen (#2)| 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm | Collection of others | :white_check_mark: |  |
+| -- | IamSpartacus (#2) | 1-WhCVwRLfV6hxyKF7W5IuzIHIYicCdAv | Collection of others | :white_check_mark: |  |
 | -- | MajorGiant (#2) | 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru | Collection of others | :white_check_mark: |  |
 | -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | Collection of others | :white_check_mark: | <li>Homemade</li> <br /> <li>Personal favorites</li> <br /> <li>Collection of others</li> | 
 | - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade <br /> (Mostly Bollywood/Indian media) | ❔ |   |
@@ -33,7 +33,7 @@ Whenever a drive contains > 50% posters that are being collected from others, th
 | + | IamSpartacus (#1) | 1aRngLdC9yO93gvSrTI2LQ_I9BSoGD-7o | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters |
 | + | MajorGiant (#1) | 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters |
 | + | BZ | 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8 | Homemade | :white_check_mark: |  |
-| + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade | ❔ |  |
+| + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade | :white_check_mark: | Can contain no gradient versions of MM2K posters |
 | + | Zarox | 1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu | Homemade | :white_check_mark: | <li>[TPDB](https://theposterdb.com/user/zarox)</li> <br /> <li>Can contain white text versions of black text MM2K posters</li> |
 | ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K | :white_check_mark: |  |
 | +++ | PERSONAL CUSTOM FOLDER/DRIVE | YOU | PERSONAL | :white_check_mark: | (*)This can be used to override/replace posters from one of the drives (or personal/other collections) but don't want to change priorities for specific reasons</li> |
