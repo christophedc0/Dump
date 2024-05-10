@@ -2,7 +2,7 @@
 
 ## Community baseline
 
-| PRIORITY (ASC) | PRIORITY INFO | CONTENT |
+| PRIORITY <br /> (ASC) | PRIORITY INFO | CONTENT |
 |--- | --- | --- |
 | --  | LOWEST | Collection of others work |
 | -  | LOW | Homemade posters (Example: foreign/local media) |
@@ -16,22 +16,22 @@
 
 ## Drives
 
-| PRIORITY (ASC) | OWNER | DRIVE ID | CONTENT | ACKNOWLEDGED & OWNER FEEDBACK |
+| PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACKNOWLEDGED <br /> & OWNER FEEDBACK |
 |--- | --- | --- | --- | --- |
 | -- | Solen (#2)| 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm | Collection of others work |❔|
 | -- | IamSpartacus (#2) | 1-WhCVwRLfV6hxyKF7W5IuzIHIYicCdAv | Collection of others work |:white_check_mark:|
 | -- | MajorGiant (#2) | 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru | Collection of others work | :white_check_mark: |
-| -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | Collection of others work | :white_check_mark: Homemade + Personal favorites posters + Collection of others | 
-| - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade posters (Mostly Bollywood/Indian media) | ❔ | 
-| - | Dsaq| 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz | Homemade posters (Mostly Dutch media) | ❔ | 
-| + | Stupifier | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade posters | :white_check_mark: To be placed as low as possible | 
-| + | Sahara | 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM | Homemade posters | :white_check_mark: +1 rank with Stupifier | 
-| + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade posters | :white_check_mark: +1 rank with Sahara | 
-| + | Zarox | 1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu | Homemade posters | :white_check_mark: https://theposterdb.com/user/zarox |
-| + | IamSpartacus (#1) | 1aRngLdC9yO93gvSrTI2LQ_I9BSoGD-7o | Homemade posters | :white_check_mark: |
-| + | MajorGiant (#1) | 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu | Homemade posters | :white_check_mark: | 
-| + | BZ | 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8 | Homemade posters | :white_check_mark: | 
+| -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | Collection of others work | :white_check_mark: <br /> <li>Homemade</li> <br /> <li>Personal favorites</li> <br /> <li>Collection of others</li> | 
+| - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade <br /> (Mostly Bollywood/Indian media) | ❔ | 
+| - | Dsaq| 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz | Homemade <br /> (Mostly Dutch media) | ❔ | 
+| + | Stupifier | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade | :white_check_mark: <br /> To be placed as low as possible | 
+| + | Sahara | 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM | Homemade | :white_check_mark: <br /> +1 rank with Stupifier | 
+| + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade | :white_check_mark: <br /> +1 rank with Sahara | 
+| + | Zarox | 1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu | Homemade | :white_check_mark: <br /> [TPDB](https://theposterdb.com/user/zarox) |
+| + | IamSpartacus (#1) | 1aRngLdC9yO93gvSrTI2LQ_I9BSoGD-7o | Homemade | :white_check_mark: |
+| + | MajorGiant (#1) | 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu | Homemade | :white_check_mark: | 
+| + | BZ | 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8 | Homemade | :white_check_mark: | 
 | + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | Unknown | ❔ |
-| + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade posters | ❔ |
-| ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K posters | :white_check_mark: |
-| +++ | PERSONAL CUSTOM FOLDER/DRIVE | YOU | | Personal posters | :white_check_mark: |
+| + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade | ❔ |
+| ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K | :white_check_mark: |
+| +++ | PERSONAL CUSTOM FOLDER/DRIVE | YOU | PERSONAL |  | :white_check_mark: |
