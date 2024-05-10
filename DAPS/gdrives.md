@@ -26,15 +26,15 @@ Whenever a drive contains > 50% posters that are being collected from others, th
 | -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | Collection of others | :white_check_mark: <br /> <li>Homemade</li> <br /> <li>Personal favorites</li> <br /> <li>Collection of others</li> | 
 | - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade <br /> (Mostly Bollywood/Indian media) | ❔ | 
 | - | Dsaq| 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz | Homemade <br /> (Mostly Dutch media) | ❔ | 
+| + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | ❔ | ❔ | 
 | + | Stupifier | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade | :white_check_mark: <br /> To be placed as low as possible | 
 | + | Sahara | 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM | Homemade | :white_check_mark: <br /> +1 rank with Stupifier | 
 | + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade | :white_check_mark: <br /> +1 rank with Sahara | 
-| + | Zarox | 1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu | Homemade | :white_check_mark: <br /> [TPDB](https://theposterdb.com/user/zarox) |
 | + | IamSpartacus (#1) | 1aRngLdC9yO93gvSrTI2LQ_I9BSoGD-7o | Homemade | :white_check_mark: |
 | + | MajorGiant (#1) | 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu | Homemade | :white_check_mark: | 
 | + | BZ | 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8 | Homemade | :white_check_mark: | 
-| + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | ❔ | ❔ | 
 | + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade | ❔ |
+| + | Zarox | 1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu | Homemade | :white_check_mark: <br /> [TPDB](https://theposterdb.com/user/zarox) |
 | ++ | Drazzilb | 1VeeQ_frBFpp6AZLimaJSSr0Qsrl6Tb7z | MM2K | :white_check_mark: |
 | +++ | PERSONAL CUSTOM FOLDER/DRIVE | YOU | PERSONAL |  | :white_check_mark: |
 
