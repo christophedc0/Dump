@@ -72,6 +72,7 @@ You're using this baseline in your configuration, but you have posters like:
 *Before*
 
 ![](../Screenshots/DAPS/IMG_0483.jpeg)
+![](../Screenshots/DAPS/Screenshot_2024-05-10_at_21.51.37.PNG)
 
 You don't like these posters and you figured out that there are other posters available or made for it.
 * These can be found with using `poster_search.sh` or browsing and downloading them from the internet.
@@ -84,7 +85,7 @@ Here comes the custom folder in place, you just move the posters you want to rep
 *After*
 
 ![](../Screenshots/DAPS/IMG_0484.jpeg)
-
+![](../Screenshots/DAPS/Screenshot_2024-05-12_at_15.11.04.png)
 
 ### Afterword
 
