@@ -10,19 +10,53 @@
 | ++  | HIGH | Drazzilb drive (MM2K posters aka our holy grail) |
 | +++  | HIGHEST | Custom folder/drive (Personal)(*) |
 
-* Whenever a drive contains > 50% posters that are being collected from others, their priority should be set to lowest.
-
-  > A nice example of this is my (Chris DC) drive.
-  >> It contains a few homemade posters, personal favorites as sometimes posters have slight variations or have been remade by others and then it falls into the collection of others.
-  >> 
-  >> In the list below, because I know the posters are correctly made, they're above any other drive that is in the lowest priority.
-  >
-  > How is this in reality, in my configuration?
-  >> My (Chris DC) drive is set to the highest priority, since it is my drive and I prefer to see these posters instead of another poster.
-
 ❗ [DAPS](https://github.com/Drazzilb08/daps) has the following priority ranking set: LOW -> HIGH (ASC)
 
+
 ❗❗ Remember, it remains a personal preference when using the recommendations posted below, this only serves as a baseline and is by no means the golden rule.
+
+
+
+### Some more details
+
+#### Hybrid drive(s)
+
+Whenever a drive contains > 50% posters that are being collected from others, their priority should be set to lowest
+
+##### Example
+
+A nice example of this is my (Chris DC) drive.
+
+It contains a few homemade posters, personal favorites as sometimes posters have slight variations or have been remade by others and then it falls into the collection of others.
+
+In the list below, since I know the posters are correctly made, they're above any other drive that is in the lowest priority, but also below any drive that contains > 50% custom made posters by the owner(s).
+
+######  How is this reflected in reality?
+
+At this point, this drive is my custom folder/drive and personal for me.
+
+My (Chris DC) drive is set to the highest priority, since it is my drive and I prefer to see these posters instead of another poster.
+
+#### When would you change priority for yourself?
+
+So now you're wondering, why should I follow this baseline? What happens if I change the order of these drives?
+
+##### Example
+
+You're using this baseline in your configuration, but you have posters like:
+
+*insert some image*
+
+You don't like these posters and you figured out that there are other posters available or made for it.
+* These can be found with user poster_search.sh or browsing and downloading them from the internet.
+* If they're on a drive in the list below you can change the priority and rerun everything.
+
+But if it was that simple.. they might have posters that you personally don't like..
+
+Here comes the custom folder in place, you just move the posters you want to replace to your custom folder, rerun everything et voila!
+
+*insert other image*
+
 
 ## Drives
 
