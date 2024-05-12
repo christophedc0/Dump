@@ -41,9 +41,9 @@
 * Drives marked with ✅ in the ACK column are verified by the owner provided the feedback over their drive, it's contents and aware of their ranking
 
 
-### Some more details
+### More details
 
-#### Hybrid drive(s)
+#### *Hybrid* drive(s)
 
 Whenever a drive contains > 50% posters that are being collected from others, their priority should be set to lowest
 
