@@ -45,7 +45,8 @@ So now you're wondering, why should I follow this baseline? What happens if I ch
 
 You're using this baseline in your configuration, but you have posters like:
 
-![](../Screenshots/DAPS/Screenshot_2024-05-10_at_21.51.37.PNG)
+*Before*
+![](../Screenshots/DAPS/IMG_0483.jpeg)
 
 You don't like these posters and you figured out that there are other posters available or made for it.
 * These can be found with user poster_search.sh or browsing and downloading them from the internet.
@@ -55,7 +56,9 @@ But if it was that simple.. they might have posters that you personally don't li
 
 Here comes the custom folder in place, you just move the posters you want to replace to your custom folder, rerun everything et voila!
 
-*insert other image*
+*After*
+![](../Screenshots/DAPS/IMG_0484.jpeg)
+
 
 
 ## Drives
