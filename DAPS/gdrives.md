@@ -12,6 +12,14 @@
 
 * Whenever a drive contains > 50% posters that are being collected from others, their priority should be set to lowest.
 
+  > A nice example of this is my (Chris DC) drive.
+  >> It contains a few homemade posters, personal favorites as sometimes posters have slight variations or have been remade by others and then it falls into the collection of others.
+  >> 
+  >> In the list below, because I know the posters are correctly made, they're above any other drive that is in the lowest priority.
+  >
+  > How is this in reality, in my configuration?
+  >> My (Chris DC) drive is set to the highest priority, since it is my drive and I prefer to see these posters instead of another poster.
+
 ❗ [DAPS](https://github.com/Drazzilb08/daps) has the following priority ranking set: LOW -> HIGH (ASC)
 
 ❗❗ Remember, it remains a personal preference when using the recommendations posted below, this only serves as a baseline and is by no means the golden rule.
