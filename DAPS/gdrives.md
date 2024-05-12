@@ -45,7 +45,7 @@ So now you're wondering, why should I follow this baseline? What happens if I ch
 
 You're using this baseline in your configuration, but you have posters like:
 
-![](Screenshots/DAPS/Screenshot_2024-05-10_at_21.51.37.png)
+![](Screenshots/DAPS/Screenshot_2024-05-10_at_21.51.37.jpeg)
 
 You don't like these posters and you figured out that there are other posters available or made for it.
 * These can be found with user poster_search.sh or browsing and downloading them from the internet.
