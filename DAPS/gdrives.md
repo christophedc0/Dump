@@ -75,7 +75,7 @@ You're using this baseline in your configuration, but you have posters like:
 
 You don't like these posters and you figured out that there are other posters available or made for it.
 * These can be found with using `poster_search.sh` or browsing and downloading them from the internet.
-* If they're on a drive in the list below you can change the priority and rerun everything.
+* If they're on a drive in the list you can change the priority and rerun everything.
 
 But if it was that simple.. they might have posters that you personally don't like..
 
