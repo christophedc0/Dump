@@ -29,7 +29,7 @@
 | + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | ❔ | ❔ |  |
 | + | Stupifier | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade | :white_check_mark: | To be placed as low as possible | 
 | + | Sahara | 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM | Homemade | :white_check_mark: | +1 rank with Stupifier | 
-| + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade | :white_check_mark: | <li>+1 rank with Sahara</li> <br /> <li>Can contain white text versions of black text MM2K posters</li> | 
+| + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters | 
 | + | IamSpartacus (#1) | 1aRngLdC9yO93gvSrTI2LQ_I9BSoGD-7o | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters |
 | + | MajorGiant (#1) | 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters |
 | + | BZ | 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8 | Homemade | :white_check_mark: |  |
