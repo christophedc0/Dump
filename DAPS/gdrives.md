@@ -53,7 +53,7 @@ A nice example of this is my (Chris DC) drive.
 
 It contains a few homemade posters, personal favorites as sometimes posters have slight variations or have been remade by others and then it falls into the collection of others.
 
-In the list below, since I know the posters are correctly made, they're above any other drive that is in the lowest priority, but also below any drive that contains > 50% custom made posters by the owner(s).
+In the list, since I know the posters are correctly made, they're above any other drive that is in the lowest priority, but also below any drive that contains > 50% custom made posters by the owner(s).
 
 ######  How is this reflected in reality?
 
