@@ -4,7 +4,7 @@
 
 | PRIORITY <br /> (ASC) | PRIORITY INFO | CONTENT |
 |--- | --- | --- |
-| --  | LOWEST | Collection of other people their posters |
+| --  | LOWEST | Collection of other people their posters (Not necessarily conform to our guidelines (or in MM2K's style))|
 | -  | LOW | Homemade posters (Example: foreign/local media) |
 | +  | MEDIUM | Homemade posters (Can easily be exchanged within the same priority) |
 | ++  | HIGH | Drazzilb drive (MM2K posters aka our holy grail) |
