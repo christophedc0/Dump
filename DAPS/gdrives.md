@@ -24,6 +24,7 @@
 | -- | IamSpartacus (#2) | 1-WhCVwRLfV6hxyKF7W5IuzIHIYicCdAv | Collection of others | :white_check_mark: |  |
 | -- | MajorGiant (#2) | 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru | Collection of others | :white_check_mark: |  |
 | -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | Collection of others | :white_check_mark: | <li>Homemade</li> <br /> <li>Personal favorites</li> <br /> <li>Collection of others</li> | 
+| - | Mareau| 1hEY9qEdXVDzIbnQ4z9Vpo0SVXXuZBZR- | Homemade <br /> (Mostly Anime/WebTV media)| :white_check_mark: | Asked to be ranked just before Collection drives |
 | - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade <br /> (Mostly Bollywood/Indian media) | ❔ |   |
 | - | Dsaq| 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz | Homemade <br /> (Mostly Dutch media) | :white_check_mark: | Dutch media also have dutch filenaming |
 | + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | ❔ | ❔ |  |
