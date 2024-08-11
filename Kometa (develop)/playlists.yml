@@ -1,0 +1,526 @@
+playlists:
+  I Know What You Did Last Summer:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/i-know-what-you-did-last-summer-collection
+  Police Academy:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/police-academy-collection
+  The Batman:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-batman-collection
+  Rebel Moon:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/rebel-moon-collection
+  The Addams Family (Animated):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-addams-family-animated-collection
+  Shazam!:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/shazam-collection
+  Teenage Mutant Ninja Turtles (Remake):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/teenage-mutant-ninja-turtles-remake-collection
+  Cruella:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/cruella-collection
+  Minions:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/minions-collection-2e5dddf9-d4ca-4dbb-8db5-62083007fc2c
+  The Mask:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-mask-collection
+  Independence Day:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/independence-day-collection
+  Futurama:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/futurama-collection
+  Tomb Raider:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/tomb-raider-collection
+  Son of Batman:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/son-of-batman-collection
+  TRON:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/tron-collection
+  Man of Steel:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/man-of-steel-collection
+  Suicide Squad:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/suicide-squad-collection
+  Superman:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/superman-collection
+  Wonder Woman:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/wonder-woman-collection
+  Disney Classics:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/users/jyggen/lists/disney-classics?sort=released,desc
+  The Simpsons (Treehouse of Horror):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/users/mrniceb/lists/simpson-s-treehouse-of-horror?sort=rank,asc
+  The Simpsons (Christmas):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/users/undonejack/lists/simpsons-christmas?sort=released,desc
+  Walt Disney (Animated):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/users/donxy/lists/walt-disney-animation-studios-films
+  Shrek:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/shrek-collection
+  The Avengers:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-avengers-collection
+  Back to the Future:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/back-to-the-future-collection
+  Beverly Hills Cop:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/beverly-hills-cop-collection
+  Batman:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/batman-collection
+  Kung Fu Panda:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/kung-fu-panda-collection
+  Knives Out:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/knives-out-collection
+  Joker:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/joker-collection
+  Studio Ghibli:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/428984f9-648d-464f-aea5-a4fafe229282
+  Bad Boys:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/bad-boys-collection
+  Black Panther:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/black-panther-collection
+  Alien vs Predator:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/avp-collection
+  Blade Runner:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/blade-runner-collection
+  Child's Play:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/child-s-play-collection
+  Ted:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/ted-collection
+  Lethal Weapon:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/lethal-weapon-collection
+  Aquaman:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/aquaman-collection
+  Kill Bill:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/kill-bill-collection
+  Ant-Man:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/ant-man-collection
+  Iron Man:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/iron-man-collection
+  Blade:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/blade-collection
+  Despicable Me:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/despicable-me-collection
+  Wolverine:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-wolverine-collection
+  Men In Black:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/men-in-black-collection
+  Hotel Transylvania:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/hotel-transylvania-collection
+  Kick-Ass:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/kick-ass-collection
+  Ocean's:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/ocean-s-collection
+  Karate Kid:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-karate-kid-collection
+  Prometheus:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/prometheus-collection
+  Spider-Man (MCU):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/spider-man-mcu-collection
+  Venom:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/venom-collection-6273063
+  Thor:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/thor-collection
+  Captain America:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/captain-america-collection
+  Scooby-Doo!:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/scooby-doo-collection-05039417-fb73-4859-a97b-06b2c81a2115
+  The Pink Panther:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-pink-panther-original-collection
+  Top Gun:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/top-gun-collection
+  Home Alone:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/home-alone-collection
+  Toy Story:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/toy-story-collection
+  Frozen:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/frozen-collection-1996672
+  The Gremlins:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-gremlins-collection
+  "Transformers: Rise of the beast":
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/transformers-rise-of-the-beasts-collection
+  Scream:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/scream-collection
+  X-Men:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/x-men-collection
+  Hercule Poirot (Kenneth Branagh):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/hercule-poirot-kenneth-branagh-collection
+  Justice League Cinematic Universe:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/justice-league-cinematic-universe
+  Friday the 13th:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/friday-the-13th-collection
+  Die Hard:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/die-hard-collection
+  Deadpool:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/deadpool-collection
+  Final Destination:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/final-destination-collection
+  Predator:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/predator-collection
+  Bourne:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-bourne-collection
+  Equalizer:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-equalizer-collection
+  Alien:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/alien-collection
+  DC Universe Animated Original Movies:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/dc-universe-animated-original-movies-collection
+  Guardians of the Galaxy:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/guardians-of-the-galaxy-collection
+  The Godfather:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-godfather-collection
+  Ice Age:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/ice-age-collection
+  Planet of the Apes (Original):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/planet-of-the-apes-original-collection
+  Ghostbusters:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/ghostbusters-collection
+  Justice League (Tomorrowverse):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/justice-league-tomorrowverse-collection
+  Scary Movie:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/scary-movie-collection
+  The Matrix:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-matrix-collection
+  Pirates of the Caribbean:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/pirates-of-the-caribbean-collection
+  Jurassic Park:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/jurassic-park-collection
+  Dune:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/dune-collection
+  the Hunger Games:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-hunger-games-collection
+  Planet of the Apes (Reboot):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/planet-of-the-apes-reboot-collection
+  The Dark Knight:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-dark-knight-collection
+  Mad Max:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/mad-max-collection
+  The Terminator:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-terminator-collection
+  Avatar:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/avatar-collection
+  Indiana Jones:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/indiana-jones-collection
+  Transformers:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/transformers-collection
+  "Spider-Man: Spider-Verse":
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/spider-man-spider-verse-collection
+  Marvel (Chronological):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/6639083
+  The Pixar Theory:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/users/donxy/lists/the-pixar-theory
+  DC Extended Universe:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/users/donxy/lists/dc-extended-universe
+  James Bond:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/james-bond-collection
+  Mission Impossible:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/mission-impossible-collection
+  Star Wars (Chronological):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/star-wars-collection
+  Star Wars (Machete):
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/users/justin/lists/star-wars-in-machete-order
+  Fast and Furious:
+    sync_mode: sync
+    sync_to_users: all
+    libraries: Movies operations, TV Shows operations
+    trakt_list: https://trakt.tv/lists/official/the-fast-and-the-furious-collection
