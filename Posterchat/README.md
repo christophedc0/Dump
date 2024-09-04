@@ -2,14 +2,18 @@
 
 - Select the relevant tag(s) for your request(s).
 - "Read the guidelines" is a mandatory tag.
-- For each movie request, a link must be provided to the entry on [TMDb](https://www.themoviedb.org). For each TV show request, a link must be provided to the entry on [TVDb](https://www.thetvdb.com). This is to ensure that we have the right movie or TV show. 
+
 - Requests
-  
-  Please use common sense in not requesting huge lists, below is a recommended guideline to bear in mind.
-  - **Maximum** **5** requests for **movie items**. For example: multiple movies in a series, or multiple seasons of the same TV show. Please do not make requests for long lists, as these will be closed.
-  - **Maximum** **3** requests for **tv show items**. For example: TV show #1 with multiple seasons, TV show #2, .. Please do not make requests for long lists, as these will be closed.
+  - For each **Movie item**, a link must be provided to the entry on [TMDb](https://www.themoviedb.org) (This is to ensure that we have the right Movie)
+  - For each **TV Show item**, a link must be provided to the entry on [TVDb](https://www.thetvdb.com) (This is to ensure that we have the right TV Show)
+
+  _Please use common sense in not requesting huge lists, below is a recommended guideline to bear in mind._
+
+  - **Maximum** _**5**_ requests for **Movie items**. For example: Multiple movies in a series, or multiple seasons of the same TV show.
+  - **Maximum** _**3**_ requests for **TV Show items**. For example: TV Show #1 with multiple seasons, TV Show #2 Season 4, etc..
+    
 - Check if the poster exists on [TPDB](https://theposterdb.com)
-- Check if the poster already exists on one of the [gdrives](https://github.com/christophedc0/Dump/blob/main/DAPS/gdrives.md) (Use the [Poster Search](https://github.com/christophedc0/Dump/blob/dev/DAPS/poster_search.sh) script or a similar alternative) **TIP:** *Sync all drives in [DAPS](https://github.com/Drazzilb08/daps) & only use those you want to use in poster_renamerr*.
+- Check if the poster exists on one of the [gdrives](https://github.com/christophedc0/Dump/blob/main/DAPS/gdrives.md) (Use the [Poster Search](https://github.com/christophedc0/Dump/blob/dev/DAPS/poster_search.sh) script or a similar alternative) **TIP:** *Sync all drives in [DAPS](https://github.com/Drazzilb08/daps) & only use those you want to use in poster_renamerr*.
 - We require a preferred poster, so that it's easier for both the requester (they'll mostly get what they want), and for the creator to create the item. The creator cannot guarantee that the preferred poster will be used if it's impossible to remove words, bad quality, not fitting a collection, etc..
 - Feel free to provide additional that can benefit both the requester and creator.
 - Once your post has been fulfilled, please use the `!archive` command to close the post.
