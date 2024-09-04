@@ -261,6 +261,7 @@
 ### Claim
 
 **Claimed**
+
 I will handle this request, please be patient.
 
 ### Completed
