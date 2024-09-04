@@ -9,7 +9,8 @@
   - **Maximum** **3** requests for **tv show items**. For example: TV show #1 with multiple seasons, TV show #2, .. Please do not make requests for long lists, as these will be closed.
 - Check if the poster exists on [TPDB](https://theposterdb.com)
 - Check if the poster already exists on one of the [gdrives](https://github.com/christophedc0/Dump/blob/main/DAPS/gdrives.md)
-- Use a Meaningful post title
+- We require a preferred poster, so it's easier for the requester (they'll mostly get what they want) and for the creator to create the item. The creator can not guarantee that the preferred poster will be used if it's impossible to remove words, bad quality, not fitting a collection,..
+- Feel free to provide additional that can benefit the requester and creator.
 - Once your post has been fulfilled, please use the `!archive` command to close the post.
 
   *Please remember that the poster creators have a life out there and have 0 obligations to make these. :-)*
@@ -29,7 +30,7 @@
   * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
-  * Provide preferred poster (Optional):
+  * Provide preferred poster:
     * Reason why you want this poster:
 ---
 
@@ -40,7 +41,7 @@
   * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
-  * Provide preferred poster (Optional):
+  * Provide preferred poster:
     * Reason why you want this poster: 
 ---
 
@@ -51,7 +52,7 @@
   * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
-  * Provide preferred poster (Optional):
+  * Provide preferred poster:
     * Reason why you want this poster: 
 ---
 
@@ -62,7 +63,7 @@
   * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
-  * Provide preferred poster (Optional):
+  * Provide preferred poster:
     * Reason why you want this poster: 
 ---
 
@@ -73,7 +74,7 @@
   * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
-  * Provide preferred poster (Optional):
+  * Provide preferred poster:
     * Reason why you want this poster: 
 
 
@@ -88,7 +89,7 @@
   * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
-  * Provide preferred poster (Optional):
+  * Provide preferred poster:
     * Reason why you want this poster:
 ---
 
@@ -101,7 +102,7 @@
   * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
-  * Provide preferred poster (Optional):
+  * Provide preferred poster:
     * Reason why you want this poster:
 ---
 
@@ -114,7 +115,7 @@
   * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
-  * Provide preferred poster (Optional):
+  * Provide preferred poster:
     * Reason why you want this poster:
 
 ### Anime
@@ -128,7 +129,7 @@
   * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
-  * Provide preferred poster (Optional):
+  * Provide preferred poster:
     * Reason why you want this poster:
 ---
 
@@ -141,7 +142,7 @@
   * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
-  * Provide preferred poster (Optional):
+  * Provide preferred poster:
     * Reason why you want this poster: 
 
 #### Tags
