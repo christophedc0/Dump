@@ -145,7 +145,7 @@
     * Reason why you want this poster: 
 
 #### Tags
-*All tags should be required* 
+*All tags are mandatory* 
 
 *Can we make like groups so if they use movies or tv shows, it's ok..?*
 
