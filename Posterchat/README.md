@@ -9,7 +9,7 @@
 
 ### Movies
 
-* Media: Movie / TV Show / Anime
+* Media: Movie
 * Media url: [TMDb](https://www.themoviedb.org)
 * TPDB: Y / N (Be specific if Y)
 * GDRIVE: Y/N (Be specific if Y)
