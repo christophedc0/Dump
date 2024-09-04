@@ -26,7 +26,7 @@
   * Name: 
   * Media url: [TMDb](https://www.themoviedb.org)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
-  * Verified on:
+  * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster (Optional):
@@ -37,7 +37,7 @@
   * Name: 
   * Media url: [TMDb](https://www.themoviedb.org)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
-  * Verified on:
+  * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster (Optional):
@@ -48,7 +48,7 @@
   * Name: 
   * Media url: [TMDb](https://www.themoviedb.org)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
-  * Verified on:
+  * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster (Optional):
@@ -59,7 +59,7 @@
   * Name: 
   * Media url: [TMDb](https://www.themoviedb.org)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
-  * Verified on:
+  * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster (Optional):
@@ -70,7 +70,7 @@
   * Name: 
   * Media url: [TMDb](https://www.themoviedb.org)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
-  * Verified on:
+  * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster (Optional):
@@ -85,7 +85,7 @@
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
-  * Verified on:
+  * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster (Optional):
@@ -98,7 +98,7 @@
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
-  * Verified on:
+  * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster (Optional):
@@ -111,7 +111,7 @@
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
-  * Verified on:
+  * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster (Optional):
@@ -125,7 +125,7 @@
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
-  * Verified on:
+  * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster (Optional):
@@ -138,7 +138,7 @@
   * Name: 
   * Media url: [TMDb](https://www.themoviedb.org)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
-  * Verified on:
+  * Does it exist on:
     * TPDB: Y / N (Be specific if Y)
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster (Optional):
