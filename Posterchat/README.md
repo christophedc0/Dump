@@ -16,9 +16,9 @@
 
 ## TEMPLATE SUGGESTION
 
-### Post title
+### Topic title
 
-*Something Meaningful or make sure it'll gives us a good laugh*
+*Something meaningful or make sure it'll gives us a good laugh*
 
 ### Movies
 
