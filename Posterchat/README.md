@@ -9,7 +9,7 @@
   - **Maximum** **5** requests for **movie items**. For example: multiple movies in a series, or multiple seasons of the same TV show. Please do not make requests for long lists, as these will be closed.
   - **Maximum** **3** requests for **tv show items**. For example: TV show #1 with multiple seasons, TV show #2, .. Please do not make requests for long lists, as these will be closed.
 - Check if the poster exists on [TPDB](https://theposterdb.com)
-- Check if the poster already exists on one of the [gdrives](https://github.com/christophedc0/Dump/blob/main/DAPS/gdrives.md) (Use the [Poster Search](https://github.com/christophedc0/Dump/blob/dev/DAPS/poster_search.sh) script or a similar alternative)
+- Check if the poster already exists on one of the [gdrives](https://github.com/christophedc0/Dump/blob/main/DAPS/gdrives.md) (Use the [Poster Search](https://github.com/christophedc0/Dump/blob/dev/DAPS/poster_search.sh) script or a similar alternative) **TIP:** *Sync all drives in DAPS only use those you want to use in poster_renamerr*.
 - We require a preferred poster, so that it's easier for both the requester (they'll mostly get what they want), and for the creator to create the item. The creator cannot guarantee that the preferred poster will be used if it's impossible to remove words, bad quality, not fitting a collection, etc..
 - Feel free to provide additional that can benefit both the requester and creator.
 - Once your post has been fulfilled, please use the `!archive` command to close the post.
