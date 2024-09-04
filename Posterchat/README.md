@@ -5,50 +5,140 @@
 - **Maximum** **5** requests for multiple items, for example: multiple movies in a series, or multiple seasons of the same TV show. Please do not make requests for long lists of unrelated items, as these will be closed.
 - A check if the poster is already existing on [TPDB](https://theposterdb.com) needs to be done
 - A check if the poster is already existing on one of the [gdrives]() *<- insert gdrives pages*
+- Use a meaningfull post title
 - Once your post has been fulfilled, please use the `!archive` command to close the post.
+
+  *Please remember that the poster creators have a life out there and have 0 obligations to make these. :-)*
 
 ## TEMPLATE SUGGESTION
 
+### Post title
+
+*Something meaningfull or make sure it'll gives us a good laugh*
+
 ### Movies
 
-* Media: Movie
-* Media url: [TMDb](https://www.themoviedb.org)
-* Verified on:
-  * TPDB: Y / N (Be specific if Y)
-  * GDRIVE: Y/N (Be specific if Y)
-* Title
+* **Movie #1**
   * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
-* Provide preferred poster (Optional):
-  * Reason why you want this poster: 
+  * Verified on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster (Optional):
+    * Reason why you want this poster:
+---
+
+* **Movie #2**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Verified on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster (Optional):
+    * Reason why you want this poster: 
+---
+
+* **Movie #3**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Verified on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster (Optional):
+    * Reason why you want this poster: 
+---
+
+* **Movie #4**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Verified on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster (Optional):
+    * Reason why you want this poster: 
+---
+
+* **Movie #5**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Verified on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster (Optional):
+    * Reason why you want this poster: 
+
 
 ### TV Shows
 
-* Media: TV Shows
-* Media url: [TVDb](https://www.thetvdb.com) 
-* Verified on:
-  * TPDB: Y / N (Be specific if Y)
-  * GDRIVE: Y/N (Be specific if Y)
-* Title
+* **TV Show #1**
   * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
-  * Season(s): # (or multiple)
-* Provide preferred poster (Optional):
-  * Reason why you want this poster:
+  * Main poster required: Y/N
+  * Season(s): 
+  * Verified on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster (Optional):
+    * Reason why you want this poster:
+---
+
+* **TV Show #2**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Main poster required: Y/N
+  * Season(s): 
+  * Verified on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster (Optional):
+    * Reason why you want this poster:
+---
+
+* **TV Show #3**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Main poster required: Y/N
+  * Season(s): 
+  * Verified on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster (Optional):
+    * Reason why you want this poster:
 
 ### Anime
 
-* Media: Anime
-* Media url: [TVDb](https://www.thetvdb.com) 
-* Verified on:
-  * TPDB: Y / N (Be specific if Y)
-  * GDRIVE: Y/N (Be specific if Y)
-* Title
+* **Anime #1**
   * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
-  * Season(s): # (or multiple)
-* Provide preferred poster (Optional):
-  * Reason why you want this poster:
+  * Main poster required: Y/N
+  * Season(s): 
+  * Verified on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster (Optional):
+    * Reason why you want this poster:
+---
+
+ ### Collections
+
+* **Collection #1**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Verified on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster (Optional):
+    * Reason why you want this poster: 
 
 #### Tags
 *All tags should be required* 
@@ -56,9 +146,9 @@
 
 |Tag|Description|
 |---|---|
-|Movie|Your request only contains movies|
-|TV Show|Your request only contains TV Shows|
-
+|Movie|Your request only contains Movies|
+|TV Shows|Your request only contains TV Shows|
+|Collections|Your request only contains Collections|
 
 # Creators
 
