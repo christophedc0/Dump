@@ -3,6 +3,8 @@
 - Select the relevant tag(s) for your request(s).
 - For each movie request, a link must be provided to the entry on [TMDb](https://www.themoviedb.org). For each TV show request, a link must be provided to the entry on [TVDb](https://www.thetvdb.com). This is to ensure that we have the right movie or TV show. 
 - **Maximum** **5** requests for multiple items, for example: multiple movies in a series, or multiple seasons of the same TV show. Please do not make requests for long lists of unrelated items, as these will be closed.
+- A check if the poster is already existing on [TPDB](https://theposterdb.com) needs to be done
+- A check if the poster is already existing on one of the [gdrives]() *<- insert gdrives pages*
 - Once your post has been fulfilled, please use the `!archive` command to close the post.
 
 ## TEMPLATE SUGGESTION
@@ -11,8 +13,9 @@
 
 * Media: Movie
 * Media url: [TMDb](https://www.themoviedb.org)
-* TPDB: Y / N (Be specific if Y)
-* GDRIVE: Y/N (Be specific if Y)
+* Verified on:
+  * TPDB: Y / N (Be specific if Y)
+  * GDRIVE: Y/N (Be specific if Y)
 * Title
   * Name: 
   * Language: ENG / OG / OTHER (Be specific if OTHER)
@@ -23,8 +26,9 @@
 
 * Media: TV Shows
 * Media url: [TVDb](https://www.thetvdb.com) 
-* TPDB: Y / N (Be specific if Y)
-* GDRIVE: Y / N (Be specific if Y!)
+* Verified on:
+  * TPDB: Y / N (Be specific if Y)
+  * GDRIVE: Y/N (Be specific if Y)
 * Title
   * Name: 
   * Language: ENG / OG / OTHER (Be specific if OTHER)
@@ -36,8 +40,9 @@
 
 * Media: Anime
 * Media url: [TVDb](https://www.thetvdb.com) 
-* TPDB: Y / N (Be specific if Y)
-* GDRIVE: Y / N (Be specific if Y!)
+* Verified on:
+  * TPDB: Y / N (Be specific if Y)
+  * GDRIVE: Y/N (Be specific if Y)
 * Title
   * Name: 
   * Language: ENG / OG / OTHER (Be specific if OTHER)
