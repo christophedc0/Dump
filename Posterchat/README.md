@@ -9,7 +9,7 @@
   - **Maximum** **3** requests for **tv show items**, for example: TV show #1 with multiple seasons, TV show #2, .. Please do not make requests for long lists, as these will be closed.
 - A check if the poster is already existing on [TPDB](https://theposterdb.com) needs to be done
 - A check if the poster is already existing on one of the [gdrives](https://github.com/christophedc0/Dump/blob/main/DAPS/gdrives.md)
-- Use a meaningfull post title
+- Use a Meaningful post title
 - Once your post has been fulfilled, please use the `!archive` command to close the post.
 
   *Please remember that the poster creators have a life out there and have 0 obligations to make these. :-)*
@@ -18,7 +18,7 @@
 
 ### Post title
 
-*Something meaningfull or make sure it'll gives us a good laugh*
+*Something Meaningful or make sure it'll gives us a good laugh*
 
 ### Movies
 
