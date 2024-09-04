@@ -16,7 +16,7 @@
 
   *Please remember that the poster creators have a life out there and have 0 obligations to make these. :-)*
 
-## TEMPLATE SUGGESTION
+## Templates
 
 ### Topic title
 
@@ -83,7 +83,7 @@
 
 * **TV Show #1**
   * Name: 
-  * Media url: [TMDb](https://www.themoviedb.org)
+  * Media url: [TVDb](https://www.thetvdb.com)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
@@ -96,7 +96,7 @@
 
 * **TV Show #2**
   * Name: 
-  * Media url: [TMDb](https://www.themoviedb.org)
+  * Media url: [TVDb](https://www.thetvdb.com)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
@@ -109,7 +109,7 @@
 
 * **TV Show #3**
   * Name: 
-  * Media url: [TMDb](https://www.themoviedb.org)
+  * Media url: [TVDb](https://www.thetvdb.com)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
@@ -134,9 +134,105 @@
     * Reason why you want this poster:
 ---
 
+* **Anime #2**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Main poster required: Y/N
+  * Season(s): 
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster:
+---
+
+* **Anime #3**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Main poster required: Y/N
+  * Season(s): 
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster:
+---
+
+* **Anime #4**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Main poster required: Y/N
+  * Season(s): 
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster:
+---
+
+* **Anime #5**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Main poster required: Y/N
+  * Season(s): 
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster:
+---
+
  ### Collections
 
 * **Collection #1**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster: 
+---
+
+* **Collection #2**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster: 
+---
+
+* **Collection #3**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster: 
+---
+
+* **Collection #4**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster: 
+---
+
+* **Collection #5**
   * Name: 
   * Media url: [TMDb](https://www.themoviedb.org)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
@@ -160,9 +256,9 @@
 - Reply with "claimed" to claim a post. This means you are claiming **all** requests within that post.
 - Once you have created the poster(s), share the image file(s) in the post and confirm whether it has been added to a Google Drive. `@` Ping the requester to confirm that the request is complete.
 
-## TEMPLATE SUGGESTION
+## Templates
 
-### Movies / TV Shows / Anime
+### General
 
 * GDRIVE: Y/N
 
