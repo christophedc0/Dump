@@ -17,9 +17,9 @@
   * Name: 
   * Language: ENG / OG / OTHER (Be specific if OTHER)
 
-### TV Shows / Anime
+### TV Shows
 
-* Media: TV Shows / Anime
+* Media: TV Shows
 * Media url: [TVDb](https://www.thetvdb.com) 
 * TPDB: Y / N (Be specific if Y)
 * GDRIVE: Y / N (Be specific if Y!)
