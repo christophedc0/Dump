@@ -4,9 +4,9 @@
 - For each movie request, a link must be provided to the entry on [TMDb](https://www.themoviedb.org). For each TV show request, a link must be provided to the entry on [TVDb](https://www.thetvdb.com). This is to ensure that we have the right movie or TV show. 
 - Requests
   
-  Please use common sense for not requesting huge lists, below is a recommended guideline to bear in mind.
-  - **Maximum** **5** requests for **movie items**, for example: multiple movies in a series, or multiple seasons of the same TV show. Please do not make requests for long lists, as these will be closed.
-  - **Maximum** **3** requests for **tv show items**, for example: TV show #1 with multiple seasons, TV show #2, .. Please do not make requests for long lists, as these will be closed.
+  Please use common sense in not requesting huge lists, below is a recommended guideline to bear in mind.
+  - **Maximum** **5** requests for **movie items**. For example: multiple movies in a series, or multiple seasons of the same TV show. Please do not make requests for long lists, as these will be closed.
+  - **Maximum** **3** requests for **tv show items**. For example: TV show #1 with multiple seasons, TV show #2, .. Please do not make requests for long lists, as these will be closed.
 - Check if the poster exists on [TPDB](https://theposterdb.com)
 - Check if the poster already exists on one of the [gdrives](https://github.com/christophedc0/Dump/blob/main/DAPS/gdrives.md)
 - Use a Meaningful post title
