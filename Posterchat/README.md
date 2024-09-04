@@ -16,6 +16,8 @@
 * Title
   * Name: 
   * Language: ENG / OG / OTHER (Be specific if OTHER)
+* Provide preferred poster (Optional):
+ * Reason why you want this poster: 
 
 ### TV Shows
 
@@ -27,6 +29,8 @@
   * Name: 
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Season(s): # (or multiple)
+* Provide preferred poster (Optional):
+ * Reason why you want this poster:
 
 ### Anime
 
@@ -38,6 +42,8 @@
   * Name: 
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Season(s): # (or multiple)
+* Provide preferred poster (Optional):
+ * Reason why you want this poster:
 
 #### Tags
 *All tags should be required* 
