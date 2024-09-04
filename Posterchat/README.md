@@ -258,7 +258,12 @@
 
 ## Templates
 
-### General
+### Claim
+
+**Claimed**
+I will handle this request, please be patient.
+
+### Completed
 
 * GDRIVE: Y/N
 
