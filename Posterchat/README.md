@@ -7,8 +7,8 @@
   Please use common sense for not requesting huge lists, below is a recommended guideline to bear in mind.
   - **Maximum** **5** requests for **movie items**, for example: multiple movies in a series, or multiple seasons of the same TV show. Please do not make requests for long lists, as these will be closed.
   - **Maximum** **3** requests for **tv show items**, for example: TV show #1 with multiple seasons, TV show #2, .. Please do not make requests for long lists, as these will be closed.
-- A check if the poster is already existing on [TPDB](https://theposterdb.com) needs to be done
-- A check if the poster is already existing on one of the [gdrives](https://github.com/christophedc0/Dump/blob/main/DAPS/gdrives.md)
+- Check if the poster exists on [TPDB](https://theposterdb.com)
+- Check if the poster already exists on one of the [gdrives](https://github.com/christophedc0/Dump/blob/main/DAPS/gdrives.md)
 - Use a Meaningful post title
 - Once your post has been fulfilled, please use the `!archive` command to close the post.
 
