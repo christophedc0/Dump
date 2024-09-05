@@ -123,11 +123,68 @@
   * Provide preferred poster:
     * Reason why you want this poster:
 
-### Anime
+### Anime Movies
 
-* **Anime #1**
+* **Anime Movies #1**
   * Name: 
   * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster:
+---
+
+* **Anime Movies #2**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster:
+---
+
+* **Anime Movies #3**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster:
+---
+
+* **Anime Movies #4**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster:
+---
+
+* **Anime Movies #5**
+  * Name: 
+  * Media url: [TMDb](https://www.themoviedb.org)
+  * Language: ENG / OG / OTHER (Be specific if OTHER)
+  * Does it exist on:
+    * TPDB: Y / N (Be specific if Y)
+    * GDRIVE: Y/N (Be specific if Y)
+  * Provide preferred poster:
+    * Reason why you want this poster:
+---
+
+### Anime Shows
+
+* **Anime Shows #1**
+  * Name: 
+  * Media url: [TVDb](https://www.thetvdb.com)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
@@ -138,9 +195,9 @@
     * Reason why you want this poster:
 ---
 
-* **Anime #2**
+* **Anime Shows #2**
   * Name: 
-  * Media url: [TMDb](https://www.themoviedb.org)
+  * Media url: [TVDb](https://www.thetvdb.com)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
@@ -151,9 +208,9 @@
     * Reason why you want this poster:
 ---
 
-* **Anime #3**
+* **Anime Shows #3**
   * Name: 
-  * Media url: [TMDb](https://www.themoviedb.org)
+  * Media url: [TVDb](https://www.thetvdb.com)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
@@ -164,9 +221,9 @@
     * Reason why you want this poster:
 ---
 
-* **Anime #4**
+* **Anime Shows #4**
   * Name: 
-  * Media url: [TMDb](https://www.themoviedb.org)
+  * Media url: [TVDb](https://www.thetvdb.com)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
@@ -177,9 +234,9 @@
     * Reason why you want this poster:
 ---
 
-* **Anime #5**
+* **Anime Shows #5**
   * Name: 
-  * Media url: [TMDb](https://www.themoviedb.org)
+  * Media url: [TVDb](https://www.thetvdb.com)
   * Language: ENG / OG / OTHER (Be specific if OTHER)
   * Main poster required: Y/N
   * Season(s): 
@@ -253,6 +310,8 @@
 |Read the guidelines|Mandatory tag, without this you can't submit your post|
 |Movie|Your request only contains Movies|
 |TV Shows|Your request only contains TV Shows|
+|Anime Movies|Your request only contains Anime Movies|
+|Anime Shows|Your request only contains Anime Shows|
 |Collections|Your request only contains Collections|
 
 # Creators
