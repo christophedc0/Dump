@@ -9,8 +9,8 @@
 
   _Please use common sense in not requesting huge lists, below is a recommended guideline to bear in mind._
 
-  - **Maximum** _**5**_ requests for **Movie items**. For example: Multiple movies in a series, or multiple seasons of the same TV show.
-  - **Maximum** _**3**_ requests for **TV Show items**. For example: TV Show #1 with multiple seasons, TV Show #2 Season 4, etc..
+  - **Maximum** _**5**_ requests for **Movies**. Multiple movies in a series can be an exception, for example:  Police Academy
+  - **Maximum** _**3**_ requests for **TV Shows**. For example: TV Show #1 with multiple seasons, TV Show #2 Season 4, TV Show #3 with multiple seasons
     
 - Check if the poster exists on [TPDB](https://theposterdb.com)
 - Check if the poster exists on one of the [gdrives](https://github.com/christophedc0/Dump/blob/main/DAPS/gdrives.md) (Use the [Poster Search](https://github.com/christophedc0/Dump/blob/dev/DAPS/poster_search.sh) script or a similar alternative) **TIP:** *Sync all drives in [DAPS](https://github.com/Drazzilb08/daps) & only use those you want to use in poster_renamerr*.
