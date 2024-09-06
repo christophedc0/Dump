@@ -20,6 +20,17 @@
 
   *Please remember that the poster creators have a life out there and have 0 obligations to make these. :-)*
 
+## Tags
+
+|Tag|Description|
+|---|---|
+|Read the guidelines|Mandatory tag, without this you can't submit your post|
+|Movie|Your request only contains Movies|
+|TV Shows|Your request only contains TV Shows|
+|Anime Movies|Your request only contains Anime Movies|
+|Anime Shows|Your request only contains Anime Shows|
+|Collections|Your request only contains Collections|
+
 ## Templates
 
 ### Topic title
@@ -178,7 +189,6 @@
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster:
     * Reason why you want this poster:
----
 
 ### Anime Shows
 
@@ -245,7 +255,6 @@
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster:
     * Reason why you want this poster:
----
 
  ### Collections
 
@@ -302,17 +311,6 @@
     * GDRIVE: Y/N (Be specific if Y)
   * Provide preferred poster:
     * Reason why you want this poster: 
-
-#### Tags
-
-|Tag|Description|
-|---|---|
-|Read the guidelines|Mandatory tag, without this you can't submit your post|
-|Movie|Your request only contains Movies|
-|TV Shows|Your request only contains TV Shows|
-|Anime Movies|Your request only contains Anime Movies|
-|Anime Shows|Your request only contains Anime Shows|
-|Collections|Your request only contains Collections|
 
 # Creators
 
