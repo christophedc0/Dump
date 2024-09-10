@@ -325,6 +325,8 @@ Otherwise, feel free to copy/paste these and fill them in.
 - Once you have created the poster(s), share the image file(s) in the post and confirm whether it has been added to a Google Drive. `@` Ping the requester to confirm that the request is complete.
 
 ## Templates
+These templates below are optional to use if you cover the required information mentioned above.
+Otherwise, feel free to copy/paste these and fill them in.
 
 ### Claim
 
