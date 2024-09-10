@@ -30,9 +30,9 @@
 |---|---|
 |Movies|Your request only contains Movies|
 |TV Shows|Your request only contains TV Shows|
+|Collections|Your request only contains Collections|
 |Anime Movies|Your request only contains Anime Movies|
 |Anime Shows|Your request only contains Anime Shows|
-|Collections|Your request only contains Collections|
 
 ---
 
@@ -45,7 +45,6 @@ Otherwise, feel free to copy/paste these and fill them in.
 - [Collections](Templates/Collections.md)
 - [Anime Movies](Templates/Anime%20Movies.md)
 - [Anime Shows](Templates/Anime%20Shows.md)
-
 
 # Creators
 
