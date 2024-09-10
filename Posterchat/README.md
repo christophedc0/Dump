@@ -37,25 +37,14 @@
 ---
 
 ## Templates
-These templates below are optional to use if you cover the required information mentioned above.
+The templates below are optional to use, if you cover the required information mentioned above.
 Otherwise, feel free to copy/paste these and fill them in.
 
-### Topic title
-
-*Something meaningful or make sure it'll gives us a good laugh*
-
-### Movies
-
-### TV Shows
-
-### Anime Movies
-
-
-### Anime Shows
-
-
- ### Collections
-
+- [Movies](Templates/Movies.md)
+- [TV Shows](Templates/TV%20Shows.md)
+- [Collections](Templates/Collections.md)
+- [Anime Movies](Templates/Anime%20Movies.md)
+- [Anime Shows](Templates/Anime%20Shows.md)
 
 
 # Creators
