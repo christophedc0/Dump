@@ -4,7 +4,7 @@
 # Modified by: MajorGiant's AI skills 
 # Modified hardcoded path to ASSETS variable by: Chris.DC
 # Inspired by LionCityGaming & IamSpartacus & Copilot
-# Modified more by Chris.DC
+# Modified more by Chris.DC (Added subdir search, retreive user from the last '/' in the filepath (so when a gdrive has subdirs you might not see their name, but it should not contain subdirectories))
 
 # Usage 1: Adapt the variables to your preferences!
 # Usage 2: alias poster="/volume1/scripts/poster-search.sh"
