@@ -3,6 +3,7 @@
 # Original script by: BZ
 # Modified by: MajorGiant's AI skills 
 # Modified hardcoded path to ASSETS variable by: Chris.DC
+
 # Usage 1: Replace the paths to your preferences!
 # Usage 2: alias poster="/volume1/scripts/poster-search.sh"
 # Usage 3: `poster "title"`
