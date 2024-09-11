@@ -3,6 +3,8 @@
 # Original script by: BZ
 # Modified by: MajorGiant's AI skills 
 # Modified hardcoded path to ASSETS variable by: Chris.DC
+# Inspired by LionCityGaming & IamSpartacus & Copilot
+# Modified more by Chris.DC
 
 # Usage 1: Adapt the variables to your preferences!
 # Usage 2: alias poster="/volume1/scripts/poster-search.sh"
