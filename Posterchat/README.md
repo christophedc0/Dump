@@ -5,7 +5,7 @@
 - Requests
   - For each **Movie item**, a link must be provided to the entry on [TMDb](https://www.themoviedb.org) (This is to ensure that we have the right Movie)
   - For each **TV Show item**, a link must be provided to the entry on [TVDb](https://www.thetvdb.com) (This is to ensure that we have the right TV Show)
-  - Have to be a single category
+  - Any single post should only be for requests in a single category/tag
     - 1 post can only contain Movies OR TV Shows OR Anime Movies OR Anime Shows OR Collections
   - Maximum requests
     - For **Movies** there's a **maximum** of **5** requests per post
@@ -19,7 +19,7 @@
   
 - You can optionally provide a preferred piece of artwork for us to use, if possible. Although this cannot be guaranteed.
 
-- Feel free to provide additional information that can benefit both the creator.
+- Feel free to provide additional information that can benefit the creator.
 - Once your post has been fulfilled, please use the `!archive` command to close the post.
 
   *Please remember that the poster creators have a life out there and have 0 obligations to make these. :-)*
