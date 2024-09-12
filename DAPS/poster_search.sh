@@ -18,10 +18,6 @@ ASSETS="/volume1/data/videos/metadata/"
 custom_order=("Posters" "chrisdc" "drazz" "solen" "quafley" "bz" "majorgiant" "lioncitygaming" "iamspartacus" "dsaq" "sahara" "zarox" "stupifierr" "overbook874" "mareau" "mvanbaak-personal" "mvanbaak-collection" "majorgiant-collection" "iamspartacus-collection" "solens-collection")
 ## Set to true to display line numbers
 DISPLAY_LINENUMBERS=${DISPLAY_LINENUMBERS:-false}
-## Set default widths
-USER_WIDTH=${USER_WIDTH:-24}
-FILENAME_WIDTH=${FILENAME_WIDTH:-60}
-
 
 # Check if no search string is provided
 if [ -z "$*" ]; then
@@ -48,6 +44,17 @@ else
     echo "No files found matching: $*"
     echo # extra empty line
   else
+    # Calculate the maximum length of user values
+    max_user_length=0
+    for line in $results; do
+      user=$(basename "$(dirname "$line")")
+      if [ ${#user} -gt $max_user_length ]; then
+        max_user_length=${#user}
+      fi
+    done
+    USER_WIDTH=$((max_user_length + 2))
+    FILENAME_WIDTH=${FILENAME_WIDTH:-60}
+  
     # Sort results by custom user order
     sorted_results=$(echo "$results" | while IFS= read -r line; do
       # Extract the user from the directory path
