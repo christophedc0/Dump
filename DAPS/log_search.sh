@@ -35,4 +35,4 @@ echo "File Path: $file_path"
 search_term=".*${search_term}.*"
 
 # Run the command!
-grep -B "$B" -A "$A" -i -E "$search_term" "$file_path"
+grep -B "$B" -A "$A" -i -E "$search_term" "$file_path" --color=always
