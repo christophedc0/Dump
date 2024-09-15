@@ -2,9 +2,9 @@
 
 # Original script by: Chris.DC
 # Usage 1: Replace the paths to your preferences!
-# Usage 2: alias logsearch="/volume1/scripts/log-search.sh"
+# Usage 2: alias logsearch="/volume1/scripts/log_search.sh"
 # Usage 3: `logsearch "title"`
-# Usage 4: if it does not work, chmod +x log-search.sh
+# Usage 4: if it does not work, chmod +x log_search.sh
 
 ## ADAPT THE FOLLOWING! (if required)
 ## How many lines to show before the match of your search term
