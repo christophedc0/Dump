@@ -317,7 +317,7 @@ libraries:
 playlist_files:
 - default: playlist
   template_variables:
-  trakt_list_xmen: https://trakt.tv/users/donxy/lists/x-men-universe
+    trakt_list_xmen: https://trakt.tv/users/donxy/lists/x-men-universe
     libraries:
     - Movies operations
     - TV Shows operations
