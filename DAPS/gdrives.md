@@ -25,7 +25,7 @@
 | -- | MajorGiant (#2) | 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru | Collection of others | :white_check_mark: |  |
 | -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | <li>Homemade <br /> <li>Collection of others | :white_check_mark: | <li>Posters with number overlay</li> <br /> <li>Personal favorites</li> <br /> <li>Homemade (variants)</li> <br /> <li>Collection of others</li> | 
 | - | Jpalenz77 | 1qBC7p9K4zur5dOCf3F6VTyUROVvHQoSb | Homemade <br /> (Mostly niche media) | :white_check_mark: | Asked to be ranked lowest priority (of homemade posters) |
-| - | Kalyanrajnish| 1Kb1kFZzzKKlq5N_ob8AFxJvStvm9PdiL | Homemade <br /> M(Mostly Indian media) | :white_check_mark: |  |
+| - | Kalyanrajnish| 1Kb1kFZzzKKlq5N_ob8AFxJvStvm9PdiL | Homemade <br /> (Mostly Indian media) | :white_check_mark: |  |
 | - | TokenMinal | 1KJlsnMz-z2RAfNxKZp7sYP_U0SD1V6lS | Homemade | :white_check_mark: | <li>Mostly Anime <br /><li>Some French media |
 | - | Mareau| 1hEY9qEdXVDzIbnQ4z9Vpo0SVXXuZBZR- | Homemade <br /> (Mostly Anime/WebTV media) | :white_check_mark: | Asked to be ranked just before Collection drives |
 | - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade <br /> (Mostly Bollywood/Indian media) | ❔ |   |
