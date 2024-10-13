@@ -29,7 +29,7 @@
 | - | Kalyanrajnish| 1Kb1kFZzzKKlq5N_ob8AFxJvStvm9PdiL | Homemade <br /> (Mostly Indian media) | :white_check_mark: |  |
 | - | TokenMinal | 1KJlsnMz-z2RAfNxKZp7sYP_U0SD1V6lS | Homemade | :white_check_mark: | <li>Mostly Anime <br /><li>Some French media |
 | - | Mareau| 1hEY9qEdXVDzIbnQ4z9Vpo0SVXXuZBZR- | Homemade <br /> (Mostly Anime/WebTV media) | :white_check_mark: | Asked to be ranked just before Collection drives |
-| - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade <br /> (Mostly Bollywood/Indian media) | ❔ |   |
+| - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade <br /> (Mostly Bollywood/Indian media) | :white_check_mark: | <li>[TPDB](https://theposterdb.com/user/tarantula212)</li> <li>[Mediux](https://mediux.pro/user/tarantula212)</li>  |
 | - | Dsaq| 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz | Homemade <br /> (Mostly Dutch media) | :white_check_mark: | Dutch media also have dutch filenaming |
 | + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | ❔ | ❔ |  |
 | + | Stupifier | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade | :white_check_mark: | To be placed as low as possible | 
