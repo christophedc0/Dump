@@ -25,6 +25,7 @@
 | -- | MajorGiant (#2) | 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru | Collection of others | :white_check_mark: |  |
 | -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | <li>Homemade <br /> <li>Collection of others | :white_check_mark: | <li>Posters *without* number overlay</li> <br /> <li>Posters *with* small "THE"/"A" overlay</li> <br /> <li>Personal favorites</li> <br /> <li>Homemade (variants)</li> <br /> <li>Collection of others</li> | 
 | - | Jpalenz77 | 1qBC7p9K4zur5dOCf3F6VTyUROVvHQoSb | Homemade <br /> (Mostly niche media) | :white_check_mark: | Asked to be ranked lowest priority (of homemade posters) |
+| - | WenIsInMood | 1Wz0S18sKOeyBURkJ1uT3RtkEmSsK1-PG | Homemade <br /> Animes, Chinese, Japanese, Korean shows | :white_check_mark: |
 | - | Reitenth | 1cqDinU27cnHf5sL5rSlfO7o_T6LSxG77 | Homemade (95% Anime) | :white_check_mark: |  |
 | - | TheOtherGuy (#2) | 15faKB1cDQAhjTQCvj8MvGUQb0nBORWGC | Homemade (OG titles: German) | :white_check_mark: | Movie, Series and Collection poster all in mm2k style with black gradient. BUT ALL posters are in **German** language, because original release title/language is German. For every poster in this drive there is an international version in my other drive. |
 | - | TheOtherGuy (#1) | 1TYVIGKpSwhipLyVQQn_OJHTobM6KaokB | Homemade | :white_check_mark: | Movie, Series and Collection poster all in mm2k style with black gradient |
