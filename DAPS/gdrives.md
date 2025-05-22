@@ -24,10 +24,12 @@
 | -- | MajorGiant (#2) | 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru | Collection of others | :white_check_mark: |  |
 | -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | <li>Homemade <br /> <li>Collection of others | :white_check_mark: | <li>Posters *without* number overlay</li> <br /> <li>Posters *with* small "THE"/"A" overlay</li> <br /> <li>Personal favorites</li> <br /> <li>Homemade (variants)</li> <br /> <li>Collection of others</li> | 
 | - | Jpalenz77 | 1qBC7p9K4zur5dOCf3F6VTyUROVvHQoSb | Homemade <br /> (Mostly niche media) | :white_check_mark: | Asked to be ranked lowest priority (of homemade posters) |
-| - | WenIsInMood | 1Wz0S18sKOeyBURkJ1uT3RtkEmSsK1-PG | Homemade <br /> Animes, Chinese, Japanese, Korean shows | :white_check_mark: |
+| - | WenIsInMood | 1Wz0S18sKOeyBURkJ1uT3RtkEmSsK1-PG | Homemade <br /> Animes, Chinese, Japanese, Korean shows | :white_check_mark: | |
+| - | Darkkazul | 1ejgRXwX6opexs8oAX8CnpSpKQt7Hrf00 | Homemade | ✅ | About 33% are Anime, Korean, Chinese, and Japanese shows/movies |
 | - | Reitenth | 1cqDinU27cnHf5sL5rSlfO7o_T6LSxG77 | Homemade (95% Anime) | :white_check_mark: |  |
 | - | TheOtherGuy (#2) | 15faKB1cDQAhjTQCvj8MvGUQb0nBORWGC | Homemade (OG titles: German) | :white_check_mark: | Movie, Series and Collection poster all in mm2k style with black gradient. BUT ALL posters are in **German** language, because original release title/language is German. For every poster in this drive there is an international version in my other drive. |
 | - | TheOtherGuy (#1) | 1TYVIGKpSwhipLyVQQn_OJHTobM6KaokB | Homemade | :white_check_mark: | Movie, Series and Collection poster all in mm2k style with black gradient |
+| - | Dweagle76 | 1XXZL-TpqWqfbKBWCifN2-MRdGDbSzHTj | Homemade | ✅ | <li>Homemade variants </li><br /><li> requests </li> |
 | - | MiniMyself | 1ZhcV8Ybja4sJRrVze-twOmb8fEZfZ2Ci | Homemade | :white_check_mark: | <li>Homemade variants </li><br /><li> missing posters </li>|
 | - | Kalyanrajnish| 1Kb1kFZzzKKlq5N_ob8AFxJvStvm9PdiL | Homemade <br /> (Mostly Indian media) | :white_check_mark: |  |
 | - | TokenMinal | 1KJlsnMz-z2RAfNxKZp7sYP_U0SD1V6lS | Homemade | :white_check_mark: | <li>Mostly Anime <br /><li>Some French media |
@@ -39,7 +41,7 @@
 | + | Sahara | 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM | Homemade | :white_check_mark: | +1 rank with Stupifier | 
 | + | MajorGiant (#1) | 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters |
 | + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters | 
-| + | IamSpartacus (#1) | 1aRngLdC9yO93gvSrTI2LQ_I9BSoGD-7o | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters |
+| + | IamSpartacus (#1) | 1HjwMWfI6XpQVYH36VBzYiJA4UWfoqcQ9 | Homemade | :white_check_mark: | <li> White text versions of black text MM2K posters<br />Posters *without* number overlay </li> |
 | + | BZ | 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8 | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters |
 | + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade | :white_check_mark: | <li>Can contain no-gradient versions of MM2K posters</li> <br /> <li>Different season posters per show</li> <br /> <li>[TPDB](https://theposterdb.com/user/Solen)</li> <br /> <li>[Mediux](https://mediux.pro/user/solen)</li>|
 | + | Zarox | 1wOhY88zc0wdQU-QQmhm4FzHL9QiCQnpu | Homemade | :white_check_mark: | <li>[TPDB](https://theposterdb.com/user/zarox)</li> <br /> <li>Can contain white text versions of black text MM2K posters</li> |
