@@ -101,3 +101,5 @@ Here comes the custom folder in place, you just move the posters you want to rep
 
 I would like to give a ***special thanks*** to all the owners and users for providing feedback and help in creating this page.
 As well, not important to forget, ***big thanks*** to [MusikMann2000](https://theposterdb.com/user/musikmann2000) and all the people creating these posters as described in the guidelines and rules that are defined @ [DAPS](https://github.com/Drazzilb08/daps).
+
+As of 23/05/2025 there's a [centralized gdrive repo](https://github.com/Drazzilb08/daps-gdrive-presets/blob/beta/presets.js) containing these drives. DAPS and DAPS-UI will be making use of this.
