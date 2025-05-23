@@ -29,7 +29,7 @@
 | - | Reitenth | 1cqDinU27cnHf5sL5rSlfO7o_T6LSxG77 | Homemade (95% Anime) | :white_check_mark: |  |
 | - | TheOtherGuy (#2) | 15faKB1cDQAhjTQCvj8MvGUQb0nBORWGC | Homemade (OG titles: German) | :white_check_mark: | Movie, Series and Collection poster all in mm2k style with black gradient. BUT ALL posters are in **German** language, because original release title/language is German. For every poster in this drive there is an international version in my other drive. |
 | - | TheOtherGuy (#1) | 1TYVIGKpSwhipLyVQQn_OJHTobM6KaokB | Homemade | :white_check_mark: | Movie, Series and Collection poster all in mm2k style with black gradient |
-| - | Dweagle76 | 1XXZL-TpqWqfbKBWCifN2-MRdGDbSzHTj | Homemade | ✅ | <li>Homemade variants </li><br /><li> requests </li> |
+| - | Dweagle79 | 1XXZL-TpqWqfbKBWCifN2-MRdGDbSzHTj | Homemade | ✅ | <li>Homemade variants </li><br /><li> requests </li> |
 | - | MiniMyself | 1ZhcV8Ybja4sJRrVze-twOmb8fEZfZ2Ci | Homemade | :white_check_mark: | <li>Homemade variants </li><br /><li> missing posters </li>|
 | - | Kalyanrajnish| 1Kb1kFZzzKKlq5N_ob8AFxJvStvm9PdiL | Homemade <br /> (Mostly Indian media) | :white_check_mark: |  |
 | - | TokenMinal | 1KJlsnMz-z2RAfNxKZp7sYP_U0SD1V6lS | Homemade | :white_check_mark: | <li>Mostly Anime <br /><li>Some French media |
