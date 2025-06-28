@@ -16,7 +16,7 @@
 ❗❗ Remember, it remains a personal preference when using the recommendations posted below, this only serves as a baseline and is by no means the golden rule.
 
 
-## Drives
+## MM2K-style Drives
 
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
@@ -50,14 +50,34 @@
 
 * Drives marked with ✅ in the ACK column are verified by the owner provided the feedback over their drive, it's contents and aware of their ranking
 
+## Logo-style Drives
+Iamspartacus and dweagle79 started creating posters with the original logo on it instead of the name in Arial.
+Some others joined the rebellion..
 
-### More details
+| PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
+|--- | --- | --- | --- | --- | --- |
+| + | TokenMinal logo-style | 1FyjcjsP5Yb0w3u6QZHbjJ51j5zTT8lA5 | Homemade | :white_check_mark: | Anime |
+| + | Jpalenz77 logo-style | 1kLvAjMx3jcJbRKjuMYTrUaA4hR4N8wfh | Homemade | :white_check_mark: | Only new content as of 28-06-2025 |
+| + | MiniMyself logo-style | 1MNpR2fVRJt6bW5NIBPR43f6GvINcrw_o | Homemade | :white_check_mark: |  |
+| ++ | Iamspartacus logo-style | 179QKyeP3avZvC_t4Fvk2Mm1nfRyuKvoc | Homemade | :white_check_mark: |  |
+| ++ | Dweagle79 logo-style | 1R4tDkZVyG7iEbQ4DNbUPiPGfslPkcWmU | Homemade | :white_check_mark: |  |
 
-#### *Hybrid* drive(s)
+### PSD's, not used by DAPS but good to have
+| PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
+|--- | --- | --- | --- | --- | --- |
+|  | TokenMinal logo-style PSD | 1dR8cAw1HPzTnQyXBnjFpiI6nxdO_OJS- | PSD | :white_check_mark: | ? |
+|  | MiniMyself logo-style PSD | 1r3zwtZ4VbLGWWvQLZdUR8DwUVt9TE9VQ | PSD | :white_check_mark: | ? |
+|  | Iamspartacus logo-style PSD | 1sQD0L_TjQN1_VFq1qu2OFueIZnSCMyUX | PSD | :white_check_mark: | ? |
+|  | Dweagle79 logo-style PSD | 1ElqdLgwHHnOIpDNpV0IRXtJZHouGzRs9 | PSD | :white_check_mark: | ? |
+
+
+## More details
+
+### *Hybrid* drive(s)
 
 Whenever a drive contains > 50% posters that are being collected from others, their priority should be set to lowest
 
-##### Example
+#### Example
 
 A nice example of this is my (Chris DC) drive.
 
@@ -65,17 +85,17 @@ It contains a few homemade posters, personal favorites as sometimes posters have
 
 In the list, since I know the posters are correctly made, they're above any other drive that is in the lowest priority, but also below any drive that contains > 50% custom made posters by the owner(s).
 
-######  How is this reflected in reality?
+#####  How is this reflected in reality?
 
 At this point, this drive is my custom folder/drive and personal for me.
 
 My (Chris DC) drive is set to the highest priority, since it is my drive and I prefer to see these posters instead of another poster.
 
-#### When would you change priority for yourself?
+### When would you change priority for yourself?
 
 So now you're wondering, why should I follow this baseline? What happens if I change the order of these drives?
 
-##### Example
+#### Example
 
 You're using this baseline in your configuration, but you have posters like:
 
@@ -97,7 +117,7 @@ Here comes the custom folder in place, you just move the posters you want to rep
 ![](../Screenshots/DAPS/IMG_0484.jpeg)
 ![](../Screenshots/DAPS/Screenshot_2024-05-12_at_15.11.04.png)
 
-### Afterword
+## Afterword
 
 I would like to give a ***special thanks*** to all the owners and users for providing feedback and help in creating this page.
 As well, not important to forget, ***big thanks*** to [MusikMann2000](https://theposterdb.com/user/musikmann2000) and all the people creating these posters as described in the guidelines and rules that are defined @ [DAPS](https://github.com/Drazzilb08/daps).
