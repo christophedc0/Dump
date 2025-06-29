@@ -85,6 +85,7 @@ When using TMDB, it's in `media` - `logos`
   ![](../Screenshots/DAPS/Guide_Lines.png)
 
 #### Source(s)
+- [CL2K template PSD](/CL2K/CL2K_template.psd)
 - [Logo/artwork finder by Ben Dodson](https://bendodson.com/projects/apple-tv-movies-artwork-finder)
 - [TMDB](https://www.themoviedb.org)
 
