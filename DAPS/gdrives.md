@@ -18,7 +18,7 @@
 
 ## MM2K-style Drives
 
-![](../Screenshots/DAPS/Batman_1966.jpg)
+<img src="../Screenshots/DAPS/Batman_1966.jpg" width="300">
 
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ Some others joined the rebellion..
 
 CL2K means "Clear Logo" and "2K" is because the main template is derived on the MM2K-style one.
 
-![](../Screenshots/DAPS/Aladdin_1992.jpg)
+<img src="../Screenshots/DAPS/Aladdin_1992.jpg" width="300">
 
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
