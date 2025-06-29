@@ -50,25 +50,40 @@
 
 * Drives marked with ✅ in the ACK column are verified by the owner provided the feedback over their drive, it's contents and aware of their ranking
 
-## Logo-style Drives
+## CL2K-style Drives
 Iamspartacus and dweagle79 started creating posters with the original logo on it instead of the name in Arial.
 Some others joined the rebellion..
 
-| PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
-|--- | --- | --- | --- | --- | --- |
-| + | TokenMinal logo-style | 1FyjcjsP5Yb0w3u6QZHbjJ51j5zTT8lA5 | Homemade | :white_check_mark: | Anime |
-| + | Jpalenz77 logo-style | 1kLvAjMx3jcJbRKjuMYTrUaA4hR4N8wfh | Homemade | :white_check_mark: | Only new content as of 28-06-2025 |
-| + | MiniMyself logo-style | 1MNpR2fVRJt6bW5NIBPR43f6GvINcrw_o | Homemade | :white_check_mark: |  |
-| ++ | Iamspartacus logo-style | 179QKyeP3avZvC_t4Fvk2Mm1nfRyuKvoc | Homemade | :white_check_mark: |  |
-| ++ | Dweagle79 logo-style | 1R4tDkZVyG7iEbQ4DNbUPiPGfslPkcWmU | Homemade | :white_check_mark: |  |
+CL2K means "Clear Logo" and "2K" is because the main template is derived on the MM2K-style one.
 
-### PSD's, not used by DAPS but good to have
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
-|  | TokenMinal logo-style PSD | 1dR8cAw1HPzTnQyXBnjFpiI6nxdO_OJS- | PSD | :white_check_mark: | ? |
-|  | MiniMyself logo-style PSD | 1r3zwtZ4VbLGWWvQLZdUR8DwUVt9TE9VQ | PSD | :white_check_mark: | ? |
-|  | Iamspartacus logo-style PSD | 1sQD0L_TjQN1_VFq1qu2OFueIZnSCMyUX | PSD | :white_check_mark: | ? |
-|  | Dweagle79 logo-style PSD | 1ElqdLgwHHnOIpDNpV0IRXtJZHouGzRs9 | PSD | :white_check_mark: | ? |
+| + | TokenMinal CL2K | 1FyjcjsP5Yb0w3u6QZHbjJ51j5zTT8lA5 | CL2K Homemade | :white_check_mark: | Anime |
+| + | Jpalenz77 logo-style | 1kLvAjMx3jcJbRKjuMYTrUaA4hR4N8wfh | CL2K Homemade | :white_check_mark: | Only new content as of 28-06-2025 |
+| + | MiniMyself logo-style | 1MNpR2fVRJt6bW5NIBPR43f6GvINcrw_o | CL2K Homemade | :white_check_mark: |  |
+| ++ | Iamspartacus logo-style | 179QKyeP3avZvC_t4Fvk2Mm1nfRyuKvoc | CL2K Homemade | :white_check_mark: |  |
+| ++ | Dweagle79 logo-style | 1R4tDkZVyG7iEbQ4DNbUPiPGfslPkcWmU | CL2K Homemade | :white_check_mark: |  |
+
+### CL2K information
+Based on MM2K posters.
+When using Ben Dodson artwork finder, primarily use the `SingleColorContentLogo`.
+
+#### CL2K PSD high-level information
+- Enable the guidelines/rulers in the psd
+- Logo `placement` should be on the `second last bottom guideline`.
+- `Maximum width` of logo should be `600px`
+- `Logo` should be `centered`
+
+#### Source(s)
+- [Logo/artwork finder by Ben Dodson](https://bendodson.com/projects/apple-tv-movies-artwork-finder)
+
+#### PSD's, not used by DAPS but good to have
+| PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
+|--- | --- | --- | --- | --- | --- |
+|  | TokenMinal logo-style PSD | 1dR8cAw1HPzTnQyXBnjFpiI6nxdO_OJS- | CL2K PSD | :white_check_mark: | ? |
+|  | MiniMyself logo-style PSD | 1r3zwtZ4VbLGWWvQLZdUR8DwUVt9TE9VQ | CL2K PSD | :white_check_mark: | ? |
+|  | Iamspartacus logo-style PSD | 1sQD0L_TjQN1_VFq1qu2OFueIZnSCMyUX | CL2K PSD | :white_check_mark: | ? |
+|  | Dweagle79 logo-style PSD | 1ElqdLgwHHnOIpDNpV0IRXtJZHouGzRs9 | CL2K PSD | :white_check_mark: | ? |
 
 
 ## More details
