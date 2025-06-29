@@ -18,6 +18,8 @@
 
 ## MM2K-style Drives
 
+![](../Screenshots/DAPS/Batman_1966.jpg)
+
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
 | -- | Solen (#2)| 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm | Collection of others | :white_check_mark: |  |
@@ -56,6 +58,8 @@ Some others joined the rebellion..
 
 CL2K means "Clear Logo" and "2K" is because the main template is derived on the MM2K-style one.
 
+![](../Screenshots/DAPS/Aladdin_1992.jpg)
+
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
 | + | TokenMinal CL2K | 1FyjcjsP5Yb0w3u6QZHbjJ51j5zTT8lA5 | CL2K Homemade | :white_check_mark: | Anime |
@@ -66,7 +70,9 @@ CL2K means "Clear Logo" and "2K" is because the main template is derived on the 
 
 ### CL2K information
 Based on MM2K posters.
+
 When using Ben Dodson artwork finder, primarily use the `SingleColorContentLogo`.
+
 When using TMDB, it's in `media` - `logos`
 
 #### CL2K PSD high-level information
