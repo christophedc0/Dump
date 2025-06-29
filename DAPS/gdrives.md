@@ -67,15 +67,20 @@ CL2K means "Clear Logo" and "2K" is because the main template is derived on the 
 ### CL2K information
 Based on MM2K posters.
 When using Ben Dodson artwork finder, primarily use the `SingleColorContentLogo`.
+When using TMDB, it's in `media` - `logos`
 
 #### CL2K PSD high-level information
 - Enable the guidelines/rulers in the psd
-- Logo `placement` should be on the `second last bottom guideline`.
-- `Maximum width` of logo should be `600px`
+- Logo `placement` should be on the `correct guideline` as shown in the screenshot below
+- `Width` of logo should be `600px` but exceptionally can be `800px`
 - `Logo` should be `centered`
+- `Logo` should be `as white as possible`
+
+  ![](../Screenshots/DAPS/Guide_Lines.png)
 
 #### Source(s)
 - [Logo/artwork finder by Ben Dodson](https://bendodson.com/projects/apple-tv-movies-artwork-finder)
+- [TMDB](https://www.themoviedb.org)
 
 #### PSD's, not used by DAPS but good to have
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
