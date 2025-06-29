@@ -16,7 +16,9 @@
 ❗❗ Remember, it remains a personal preference when using the recommendations posted below, this only serves as a baseline and is by no means the golden rule.
 
 
-## Drives
+## MM2K-style Drives
+
+<img src="../Screenshots/DAPS/Batman_1966.jpg" width="300">
 
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
@@ -29,7 +31,7 @@
 | - | Reitenth | 1cqDinU27cnHf5sL5rSlfO7o_T6LSxG77 | Homemade (95% Anime) | :white_check_mark: |  |
 | - | TheOtherGuy (#2) | 15faKB1cDQAhjTQCvj8MvGUQb0nBORWGC | Homemade (OG titles: German) | :white_check_mark: | Movie, Series and Collection poster all in mm2k style with black gradient. BUT ALL posters are in **German** language, because original release title/language is German. For every poster in this drive there is an international version in my other drive. |
 | - | TheOtherGuy (#1) | 1TYVIGKpSwhipLyVQQn_OJHTobM6KaokB | Homemade | :white_check_mark: | Movie, Series and Collection poster all in mm2k style with black gradient |
-| - | Dweagle76 | 1XXZL-TpqWqfbKBWCifN2-MRdGDbSzHTj | Homemade | ✅ | <li>Homemade variants </li><br /><li> requests </li> |
+| - | Dweagle79 | 1XXZL-TpqWqfbKBWCifN2-MRdGDbSzHTj | Homemade | ✅ | <li>Homemade variants </li><br /><li> requests </li> |
 | - | MiniMyself | 1ZhcV8Ybja4sJRrVze-twOmb8fEZfZ2Ci | Homemade | :white_check_mark: | <li>Homemade variants </li><br /><li> missing posters </li>|
 | - | Kalyanrajnish| 1Kb1kFZzzKKlq5N_ob8AFxJvStvm9PdiL | Homemade <br /> (Mostly Indian media) | :white_check_mark: |  |
 | - | TokenMinal | 1KJlsnMz-z2RAfNxKZp7sYP_U0SD1V6lS | Homemade | :white_check_mark: | <li>Mostly Anime <br /><li>Some French media |
@@ -50,14 +52,59 @@
 
 * Drives marked with ✅ in the ACK column are verified by the owner provided the feedback over their drive, it's contents and aware of their ranking
 
+## CL2K-style Drives
+Iamspartacus and dweagle79 started creating posters with the original logo on it instead of the name in Arial.
+Some others joined the rebellion..
 
-### More details
+CL2K means "Clear Logo" and "2K" is because the main template is derived on the MM2K-style one.
 
-#### *Hybrid* drive(s)
+<img src="../Screenshots/DAPS/Aladdin_1992.jpg" width="300">
+
+| PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
+|--- | --- | --- | --- | --- | --- |
+| + | TokenMinal CL2K | 1FyjcjsP5Yb0w3u6QZHbjJ51j5zTT8lA5 | CL2K Homemade | :white_check_mark: | Anime |
+| + | Jpalenz77 logo-style | 1kLvAjMx3jcJbRKjuMYTrUaA4hR4N8wfh | CL2K Homemade | :white_check_mark: | Only new content as of 28-06-2025 |
+| + | MiniMyself logo-style | 1MNpR2fVRJt6bW5NIBPR43f6GvINcrw_o | CL2K Homemade | :white_check_mark: |  |
+| ++ | Iamspartacus logo-style | 179QKyeP3avZvC_t4Fvk2Mm1nfRyuKvoc | CL2K Homemade | :white_check_mark: |  |
+| ++ | Dweagle79 logo-style | 1R4tDkZVyG7iEbQ4DNbUPiPGfslPkcWmU | CL2K Homemade | :white_check_mark: |  |
+
+### CL2K information
+Based on MM2K posters.
+
+When using Ben Dodson artwork finder, primarily use the `SingleColorContentLogo`.
+
+When using TMDB, it's in `media` - `logos`
+
+#### CL2K PSD high-level information
+- Enable the guidelines/rulers in the psd
+- Logo `placement` should be on the `correct guideline` as shown in the screenshot below
+- `Width` of logo should be `600px` but exceptionally can be `800px`
+- `Logo` should be `centered`
+- `Logo` should be `as white as possible`
+
+  ![](../Screenshots/DAPS/Guide_Lines.png)
+
+#### Source(s)
+- [CL2K template PSD](CL2K/CL2K_template.psd)
+- [Logo/artwork finder by Ben Dodson](https://bendodson.com/projects/apple-tv-movies-artwork-finder)
+- [TMDB](https://www.themoviedb.org)
+
+#### PSD's, not used by DAPS but good to have
+| PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
+|--- | --- | --- | --- | --- | --- |
+|  | TokenMinal logo-style PSD | 1dR8cAw1HPzTnQyXBnjFpiI6nxdO_OJS- | CL2K PSD | :white_check_mark: | ? |
+|  | MiniMyself logo-style PSD | 1r3zwtZ4VbLGWWvQLZdUR8DwUVt9TE9VQ | CL2K PSD | :white_check_mark: | ? |
+|  | Iamspartacus logo-style PSD | 1sQD0L_TjQN1_VFq1qu2OFueIZnSCMyUX | CL2K PSD | :white_check_mark: | ? |
+|  | Dweagle79 logo-style PSD | 1ElqdLgwHHnOIpDNpV0IRXtJZHouGzRs9 | CL2K PSD | :white_check_mark: | ? |
+
+
+## More details
+
+### *Hybrid* drive(s)
 
 Whenever a drive contains > 50% posters that are being collected from others, their priority should be set to lowest
 
-##### Example
+#### Example
 
 A nice example of this is my (Chris DC) drive.
 
@@ -65,17 +112,17 @@ It contains a few homemade posters, personal favorites as sometimes posters have
 
 In the list, since I know the posters are correctly made, they're above any other drive that is in the lowest priority, but also below any drive that contains > 50% custom made posters by the owner(s).
 
-######  How is this reflected in reality?
+#####  How is this reflected in reality?
 
 At this point, this drive is my custom folder/drive and personal for me.
 
 My (Chris DC) drive is set to the highest priority, since it is my drive and I prefer to see these posters instead of another poster.
 
-#### When would you change priority for yourself?
+### When would you change priority for yourself?
 
 So now you're wondering, why should I follow this baseline? What happens if I change the order of these drives?
 
-##### Example
+#### Example
 
 You're using this baseline in your configuration, but you have posters like:
 
@@ -97,7 +144,9 @@ Here comes the custom folder in place, you just move the posters you want to rep
 ![](../Screenshots/DAPS/IMG_0484.jpeg)
 ![](../Screenshots/DAPS/Screenshot_2024-05-12_at_15.11.04.png)
 
-### Afterword
+## Afterword
 
 I would like to give a ***special thanks*** to all the owners and users for providing feedback and help in creating this page.
 As well, not important to forget, ***big thanks*** to [MusikMann2000](https://theposterdb.com/user/musikmann2000) and all the people creating these posters as described in the guidelines and rules that are defined @ [DAPS](https://github.com/Drazzilb08/daps).
+
+As of 23/05/2025 there's a [centralized gdrive repo](https://github.com/Drazzilb08/daps-gdrive-presets) containing these drives. DAPS and DAPS-UI will be making use of this.
