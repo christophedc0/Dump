@@ -62,11 +62,12 @@ CL2K means "Clear Logo" and "2K" is because the main template is derived on the 
 
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
+| + | LionCityGaming CL2K | 1gJ_CXigGfZDJV5C3ZTaTz_yycgkROTJF | CL2K Homemade | :white_check_mark: |  |
 | + | TokenMinal CL2K | 1FyjcjsP5Yb0w3u6QZHbjJ51j5zTT8lA5 | CL2K Homemade | :white_check_mark: | Anime |
-| + | Jpalenz77 logo-style | 1kLvAjMx3jcJbRKjuMYTrUaA4hR4N8wfh | CL2K Homemade | :white_check_mark: | Only new content as of 28-06-2025 |
-| + | MiniMyself logo-style | 1MNpR2fVRJt6bW5NIBPR43f6GvINcrw_o | CL2K Homemade | :white_check_mark: |  |
-| ++ | Iamspartacus logo-style | 179QKyeP3avZvC_t4Fvk2Mm1nfRyuKvoc | CL2K Homemade | :white_check_mark: |  |
-| ++ | Dweagle79 logo-style | 1R4tDkZVyG7iEbQ4DNbUPiPGfslPkcWmU | CL2K Homemade | :white_check_mark: |  |
+| + | Jpalenz77 CL2K | 1kLvAjMx3jcJbRKjuMYTrUaA4hR4N8wfh | CL2K Homemade | :white_check_mark: | Only new content as of 28-06-2025 |
+| + | MiniMyself CL2K | 1MNpR2fVRJt6bW5NIBPR43f6GvINcrw_o | CL2K Homemade | :white_check_mark: |  |
+| ++ | Iamspartacus CL2K | 179QKyeP3avZvC_t4Fvk2Mm1nfRyuKvoc | CL2K Homemade | :white_check_mark: |  |
+| ++ | Dweagle79 CL2K | 1R4tDkZVyG7iEbQ4DNbUPiPGfslPkcWmU | CL2K Homemade | :white_check_mark: |  |
 
 ### CL2K information
 Based on MM2K posters.
