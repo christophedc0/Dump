@@ -83,7 +83,7 @@ When using TMDB, it's in `media` - `logos`
 - `Logo` should be `centered`
 - `Logo` should be `as white as possible`
 
-  ![](../Screenshots/DAPS/Guide_Lines.png)
+  ![](CL2K/Guide_lines.jpeg)
 
 #### Source(s)
 - [CL2K template PSD](CL2K/CL2K_template.psd)
