@@ -62,7 +62,7 @@ CL2K means "Clear Logo" and "2K" is because the main template is derived on the 
 
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
-| + | Mario CL2K | 1TDk1DCdYK6RFl-dg-HnNcnUV3MZ3MNwC | CL2K Homemade | ✅ |  |
+| - | Mario CL2K | 1TDk1DCdYK6RFl-dg-HnNcnUV3MZ3MNwC | CL2K Homemade | ❗ | Logo's are bottom aligned on the main text, not the logo as a whole |
 | + | BZ CL2K | 1cEIuJRr8AZcthyVWfNn2skxog6R_MPrW | CL2K Homemade | ✅ |  |
 | + | LionCityGaming CL2K | 1gJ_CXigGfZDJV5C3ZTaTz_yycgkROTJF | CL2K Homemade | :white_check_mark: |  |
 | + | TokenMinal CL2K | 1FyjcjsP5Yb0w3u6QZHbjJ51j5zTT8lA5 | CL2K Homemade | :white_check_mark: | Anime |
@@ -95,7 +95,7 @@ When using TMDB, it's in `media` - `logos`
 #### PSD's, not used by DAPS but good to have
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
-|  | Mario CL2K PSD | 15y5mGCGzJKkMM6Nk6bu63Kak3QBlXALP | CL2K PSD | ✅ | ? |
+|  | Mario CL2K PSD | 15y5mGCGzJKkMM6Nk6bu63Kak3QBlXALP | CL2K PSD | ❗ | Logo's are bottom aligned on the main text, not the logo as a whole |
 |  | BZ CL2K PSD | 1x7A0L5ylknUWaEcMOl2MWjm4qbnSjc5T | CL2K PSD | ✅ | ? |
 |  | TokenMinal CL2K PSD | 1dR8cAw1HPzTnQyXBnjFpiI6nxdO_OJS- | CL2K PSD | :white_check_mark: | ? |
 |  | MiniMyself CL2K PSD | 1r3zwtZ4VbLGWWvQLZdUR8DwUVt9TE9VQ | CL2K PSD | :white_check_mark: | ? |
