@@ -61,10 +61,12 @@ CL2K means "Clear Logo" and "2K" is because the main template is derived on the 
 
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
+
+| - | Wenisinmood CL2K (#2) | 1Jr8oFEyLvSREHac9l1yRyaw2XCd8OXc7 | CL2K Homemade | ✅ | Contains original language titles |
 | - | Mario CL2K | 1TDk1DCdYK6RFl-dg-HnNcnUV3MZ3MNwC | CL2K Homemade | ❗ | Logo's are bottom aligned on the main text, not the logo as a whole |
 | + | Darkkazul | 1X1E8ktIoAXBwuTTImltizEH5_XwBPoz3 | CL2K Homemade | ✅ |  |
 | + | Confused CL2K | 1l-cuRGy1JDpkmDrBWz46yr_xlT1CWNvQ | CL2K Homemade | ✅ |  |
-| + | Wenisinmood CL2K | 1Jr8oFEyLvSREHac9l1yRyaw2XCd8OXc7 | CL2K Homemade | ✅ |  |
+| + | Wenisinmood CL2K (#1) | 1Jr8oFEyLvSREHac9l1yRyaw2XCd8OXc7 | CL2K Homemade | ✅ |  |
 | + | BZ CL2K | 1cEIuJRr8AZcthyVWfNn2skxog6R_MPrW | CL2K Homemade | ✅ |  |
 | + | LionCityGaming CL2K | 1gJ_CXigGfZDJV5C3ZTaTz_yycgkROTJF | CL2K Homemade | :white_check_mark: |  |
 | + | TokenMinal CL2K | 1FyjcjsP5Yb0w3u6QZHbjJ51j5zTT8lA5 | CL2K Homemade | :white_check_mark: | Anime |
