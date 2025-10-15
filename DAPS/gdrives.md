@@ -24,7 +24,7 @@
 |--- | --- | --- | --- | --- | --- |
 | -- | Solen (#2)| 1zWY-ORtJkOLcQChV--oHquxW3JCow1zm | Collection of others | :white_check_mark: |  |
 | -- | MajorGiant (#2) | 15sNlcFZmeDox2OQJyGjVxRwtigtd82Ru | Collection of others | :white_check_mark: |  |
-| -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | <li>Homemade <br /> <li>Collection of others | :white_check_mark: | <li>Posters *without* number overlay</li> <br /> <li>Posters *with* small "THE"/"A" overlay</li> <br /> <li>Personal favorites</li> <br /> <li>Homemade (variants)</li> <br /> <li>Collection of others</li> | 
+| -- | Chris DC | 1oBzEOXXrTHGq6sUY_4RMtzMTt4VHyeJp | <li>Homemade <br /> <li>Collection of others | :white_check_mark: | <li>Posters *without* number overlay</li> <br /> <li>Posters *with* small "THE"/"A" overlay</li> <br /> <li>Personal favorites</li> <br /> <li>Homemade (variants)</li> <br /> <li>Collection of others</li> |
 | - | Jpalenz77 | 1qBC7p9K4zur5dOCf3F6VTyUROVvHQoSb | Homemade <br /> (Mostly niche media) | :white_check_mark: | Asked to be ranked lowest priority (of homemade posters) |
 | - | WenIsInMood | 1Wz0S18sKOeyBURkJ1uT3RtkEmSsK1-PG | Homemade <br /> Animes, Chinese, Japanese, Korean shows | :white_check_mark: | |
 | - | Darkkazul | 1ejgRXwX6opexs8oAX8CnpSpKQt7Hrf00 | Homemade | ✅ | About 33% are Anime, Korean, Chinese, and Japanese shows/movies |
@@ -38,10 +38,10 @@
 | - | Overbook874 (Tarantula212)| 1LIVG1RbTEd7tTJMbzZr7Zak05XznLFia | Homemade <br /> (Mostly Bollywood/Indian media) | :white_check_mark: | <li>[TPDB](https://theposterdb.com/user/tarantula212)</li> <li>[Mediux](https://mediux.pro/user/tarantula212)</li>  |
 | - | Dsaq| 1wrSru-46iIN1iqCl2Cjhj5ofdazPgbsz | Homemade <br /> (Mostly Dutch media) | :white_check_mark: | Dutch media also have dutch filenaming |
 | + | Quafley | 1G77TLQvgs_R7HdMWkMcwHL6vd_96cMp7 | Homemade <br /> (Mostly Anime) | ❔ | Main focus is around animes (especially older lesser known ones). This includes movies. |
-| + | Stupifier | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade | :white_check_mark: | To be placed as low as possible | 
-| + | Sahara | 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM | Homemade | :white_check_mark: | +1 rank with Stupifier | 
+| + | Stupifier | 1bBbK_3JeXCy3ElqTwkFHaNoNxYgqtLug | Homemade | :white_check_mark: | To be placed as low as possible |
+| + | Sahara | 1KnwxzwBUQzQyKF1e24q_wlFqcER9xYHM | Homemade | :white_check_mark: | +1 rank with Stupifier |
 | + | MajorGiant (#1) | 1ZfvUgN0qz4lJYkC_iMRjhH-fZ0rDN_Yu | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters |
-| + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters | 
+| + | Lion City Gaming | 1alseEnUBjH6CjXh77b5L4R-ZDGdtOMFr | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters |
 | + | IamSpartacus (#1) | 1HjwMWfI6XpQVYH36VBzYiJA4UWfoqcQ9 | Homemade | :white_check_mark: | <li> White text versions of black text MM2K posters<br />Posters *without* number overlay </li> |
 | + | BZ | 1Xg9Huh7THDbmjeanW0KyRbEm6mGn_jm8 | Homemade | :white_check_mark: | Can contain white text versions of black text MM2K posters |
 | + | Solen (#1)| 1YEuS1pulJAfhKm4L8U9z5-EMtGl-d2s7| Homemade | :white_check_mark: | <li>Can contain no-gradient versions of MM2K posters</li> <br /> <li>Different season posters per show</li> <br /> <li>[TPDB](https://theposterdb.com/user/Solen)</li> <br /> <li>[Mediux](https://mediux.pro/user/solen)</li>|
@@ -63,6 +63,7 @@ CL2K means "Clear Logo" and "2K" is because the main template is derived on the 
 |--- | --- | --- | --- | --- | --- |
 | - | Wenisinmood CL2K (#2) | 1sGiSVkabE6NtLuQfoKYEwbwosnRGMQAF | CL2K Homemade | ✅ | Contains original language titles |
 | - | Mario CL2K | 1TDk1DCdYK6RFl-dg-HnNcnUV3MZ3MNwC | CL2K Homemade | ❗ | Logo's are bottom aligned on the main text, not the logo as a whole |
+| + | BerserkeR | 1jToV8ee8RhqnG9DhAPYKufEJpb8Ru_7r | CL2K Homemade | ✅ |  |
 | + | Darkkazul | 1X1E8ktIoAXBwuTTImltizEH5_XwBPoz3 | CL2K Homemade | ✅ |  |
 | + | Confused CL2K | 1l-cuRGy1JDpkmDrBWz46yr_xlT1CWNvQ | CL2K Homemade | ✅ |  |
 | + | Wenisinmood CL2K (#1) | 1Jr8oFEyLvSREHac9l1yRyaw2XCd8OXc7 | CL2K Homemade | ✅ |  |
