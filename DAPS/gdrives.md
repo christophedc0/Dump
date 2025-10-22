@@ -63,6 +63,7 @@ CL2K means "Clear Logo" and "2K" is because the main template is derived on the 
 |--- | --- | --- | --- | --- | --- |
 | - | Wenisinmood CL2K (#2) | 1sGiSVkabE6NtLuQfoKYEwbwosnRGMQAF | CL2K Homemade | ✅ | Contains original language titles |
 | - | Mario CL2K | 1TDk1DCdYK6RFl-dg-HnNcnUV3MZ3MNwC | CL2K Homemade | ❗ | Logo's are bottom aligned on the main text, not the logo as a whole |
+| + | Solen CL2K | 1NnKbYnIVnDGkxgKpbgSoWl8JFdbjawOI | CL2K Homemade | ✅ |  |
 | + | BerserkeR | 1jToV8ee8RhqnG9DhAPYKufEJpb8Ru_7r | CL2K Homemade | ✅ |  |
 | + | Darkkazul | 1X1E8ktIoAXBwuTTImltizEH5_XwBPoz3 | CL2K Homemade | ✅ |  |
 | + | Confused CL2K | 1l-cuRGy1JDpkmDrBWz46yr_xlT1CWNvQ | CL2K Homemade | ✅ |  |
