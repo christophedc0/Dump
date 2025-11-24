@@ -62,6 +62,7 @@ CL2K means "Clear Logo" and "2K" is because the main template is derived on the 
 | PRIORITY <br /> (ASC) | OWNER | DRIVE ID | CONTENT | ACK | OWNER FEEDBACK |
 |--- | --- | --- | --- | --- | --- |
 | - | Wenisinmood CL2K (#2) | 1sGiSVkabE6NtLuQfoKYEwbwosnRGMQAF | CL2K Homemade | ✅ | Contains original language titles |
+| - | Tarantula212 CL2K | 1k5oohfM77PgcB5aOZ0ZV8t5GMF-FquTk | CL2K Homemade (Mostly Bollywood/Indian media) | :white_check_mark: | <li>[TPDB](https://theposterdb.com/user/tarantula212)</li> |
 | - | Mario CL2K | 1TDk1DCdYK6RFl-dg-HnNcnUV3MZ3MNwC | CL2K Homemade | ❗ | Logo's are bottom aligned on the main text, not the logo as a whole |
 | + | Solen CL2K | 1NnKbYnIVnDGkxgKpbgSoWl8JFdbjawOI | CL2K Homemade | ✅ |  |
 | + | BerserkeR | 1jToV8ee8RhqnG9DhAPYKufEJpb8Ru_7r | CL2K Homemade | ✅ |  |
